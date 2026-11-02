@@ -1,0 +1,64 @@
+# Aegyptus seed URL sources
+# Each source has an id, entry point URL(s), and expected content types.
+# The harvester visits these entry points, extracts outbound links,
+# and populates the crawl_queue table.
+
+sources:
+  - id: oraec_metasearch
+    name: "ORAEC Metasearch Index"
+    entry_urls:
+      - "https://oraec.github.io/"
+    expected_types: [html]
+    notes: "Main ORAEC index page linking to individual text records."
+
+  - id: eef_source_texts
+    name: "EEF Digitized Source Texts"
+    entry_urls:
+      - "https://www.egyptologyforum.org/EEFSourcetexts.html"
+    expected_types: [html, pdf]
+    notes: "Curated list of digitized Egyptian source texts. Known link rot risk."
+    link_rot_check: true
+
+  - id: eef_guide
+    name: "EEF Guide to Internet Resources"
+    entry_urls:
+      - "https://www.egyptologyforum.org/EEFtexts.html"
+    expected_types: [html, pdf]
+    notes: "General guide to online Egyptology resources."
+    link_rot_check: true
+
+  - id: pyramid_texts_online
+    name: "Pyramid Texts Online"
+    entry_urls:
+      - "https://pyramidtextsonline.com/library.html"
+    expected_types: [html]
+    notes: "Library of Pyramid Text translations and analyses."
+
+  - id: internet_archive
+    name: "Internet Archive Egyptology"
+    entry_urls:
+      - "https://archive.org/search?query=subject%3A%22Egyptology%22&and%5B%5D=mediatype%3A%22texts%22"
+    expected_types: [pdf, html]
+    notes: "Use IA bulk download API, not page scraping. Respect their rate limits."
+    use_api: true
+
+  - id: sacred_texts
+    name: "Sacred Texts - Egypt"
+    entry_urls:
+      - "https://www.sacred-texts.com/egy/index.htm"
+    expected_types: [html]
+    notes: "Public domain translations of Egyptian religious and magical texts."
+
+  - id: attalus_egypt
+    name: "Attalus Egypt"
+    entry_urls:
+      - "https://www.attalus.org/egypt/"
+    expected_types: [html]
+    notes: "Historical source translations related to ancient Egypt."
+
+  - id: awol
+    name: "AWOL - Ancient World Online"
+    entry_urls:
+      - "https://ancientworldonline.blogspot.com/2015/12/alphabetical-list-of-open-access.html"
+    expected_types: [html, pdf]
+    notes: "Blog-format list of open access resources for the ancient world."

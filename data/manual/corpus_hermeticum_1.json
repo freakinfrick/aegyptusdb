@@ -1,0 +1,144 @@
+{
+  "canonical_id": "aeg_manual_poimandres",
+  "conventional_name": "Corpus Hermeticum I: Poimandres",
+  "script_type": "greek",
+  "date_earliest": 100,
+  "date_latest": 300,
+  "period_label": "Roman Period",
+  "findspot": "Egypt (composed)",
+  "current_location": null,
+  "text_type": "philosophical treatise",
+  "completeness": "complete",
+  "shelfmarks": [],
+  "source_corpus": ["manual"],
+  "extra_metadata": {
+    "bridge_text": true,
+    "tradition": "hermetic",
+    "author_attribution": "Hermes Trismegistus",
+    "language": "greek",
+    "sources": [
+      "Scott, W. (1924) 'Hermetica' Vol. 1 (public domain)",
+      "Nock, A.D. & Festugière, A.-J. (1945) 'Corpus Hermeticum' (public domain EU)",
+      "Copenhaver, B.P. (1992) 'Hermetica' (translation reference only)"
+    ],
+    "license": "public_domain",
+    "note": "Key sentences from Poimandres based on Scott 1924 translation (public domain). The first Hermetic text and key bridge between Egyptian creation theology and Greek Logos philosophy."
+  },
+  "concordance": [
+    {"external_system": "trismegistos", "external_id": "63986"}
+  ],
+  "aliases": [
+    "Poimandres",
+    "Corpus Hermeticum I",
+    "CH I",
+    "The Shepherd of Men",
+    "Poemandres"
+  ],
+  "sentences": [
+    {
+      "sequence_num": 1,
+      "translation": {"en": "Once, when thought came to me of the things that are, and my thinking soared high and my bodily senses were restrained, like those who are heavy with sleep after a surfeit of food or from bodily weariness, it seemed to me that a Being of vast and immeasurable greatness approached, calling my name and saying to me: 'What do you wish to hear and see, and what do you wish to learn and know by thought?'"},
+      "source_detail": {"section": 1, "topic": "vision_begins"}
+    },
+    {
+      "sequence_num": 2,
+      "translation": {"en": "'Who are you?' I said. 'I am Poimandres,' said he, 'the Mind of the Sovereignty. I know what you wish, and I am with you everywhere.'"},
+      "source_detail": {"section": 2, "topic": "poimandres_identity"}
+    },
+    {
+      "sequence_num": 3,
+      "translation": {"en": "I said: 'I wish to learn the things that are, and understand their nature, and know God. How much I wish to hear!' He said to me: 'Hold in your mind all that you wish to learn, and I will teach you.'"},
+      "source_detail": {"section": 3, "topic": "desire_for_knowledge"}
+    },
+    {
+      "sequence_num": 4,
+      "translation": {"en": "With these words he changed his form, and at once everything was opened to me in a moment, and I beheld a boundless view, all become Light, serene and joyful. And I was filled with love at the sight."},
+      "source_detail": {"section": 4, "topic": "vision_of_light"}
+    },
+    {
+      "sequence_num": 5,
+      "translation": {"en": "And after a little while there was a Darkness, coming down obliquely, fearful and hateful, which I likened to a serpent. Then the Darkness changed into a watery substance, unspeakably troubled, yielding smoke as from fire, and uttering a wailing sound indescribable."},
+      "source_detail": {"section": 4, "topic": "vision_of_darkness"}
+    },
+    {
+      "sequence_num": 6,
+      "translation": {"en": "Then there was sent forth from the Light a holy Word (Logos), which took its stand upon the watery substance; and I thought this Word was the voice of the Light."},
+      "source_detail": {"section": 5, "topic": "logos_creation", "note": "Core Logos parallel with Egyptian heart-tongue theology"}
+    },
+    {
+      "sequence_num": 7,
+      "translation": {"en": "And Poimandres said to me: 'Do you understand the meaning of what you have seen?' 'Tell me its meaning,' I said. 'That Light,' said he, 'is I, even Mind, the first God, who was before the watery substance which appeared out of Darkness; and the Word (Logos) which came forth from the Light is the son of God.'"},
+      "source_detail": {"section": 6, "topic": "logos_as_son_of_god"}
+    },
+    {
+      "sequence_num": 8,
+      "translation": {"en": "'What then?' said I. 'Know that what sees and hears in you is the Word (Logos) of the Lord, and your Mind is God the Father. They are not separated from one another, for their union is Life.'"},
+      "source_detail": {"section": 6, "topic": "logos_and_mind_union", "note": "Parallels Egyptian concept of heart (sia) and tongue (hu) as inseparable creative powers"}
+    },
+    {
+      "sequence_num": 9,
+      "translation": {"en": "And thereupon the Mind, together with the Word, encompassing the spheres and spinning them with thunderous speed, set his craftwork spinning, and let them spin from no fixed starting-point to no fixed ending-point, for it begins where it ends."},
+      "source_detail": {"section": 7, "topic": "cosmic_creation"}
+    },
+    {
+      "sequence_num": 10,
+      "translation": {"en": "And Nature, receiving the Word, set to work and made herself into an ordered world. The elements of nature were separated out, and from them all the living creatures came forth."},
+      "source_detail": {"section": 8, "topic": "nature_receives_logos"}
+    },
+    {
+      "sequence_num": 11,
+      "translation": {"en": "And Mind the Father of all, who is Life and Light, gave birth to Man, a Being like to himself. And he took delight in Man, as being his own offspring; for Man was very goodly to look on, bearing the likeness of his Father."},
+      "source_detail": {"section": 12, "topic": "creation_of_man"}
+    },
+    {
+      "sequence_num": 12,
+      "translation": {"en": "For in truth, God did in very deed love his own form; and he delivered over to Man all things that had been made."},
+      "source_detail": {"section": 12, "topic": "creation_of_man"}
+    },
+    {
+      "sequence_num": 13,
+      "translation": {"en": "And Man, having received full power over the world of mortal things, broke through the vault of the heavens, having broken through the envelope, and showed to downward-tending Nature the beautiful form of God."},
+      "source_detail": {"section": 14, "topic": "man_descends"}
+    },
+    {
+      "sequence_num": 14,
+      "translation": {"en": "And Nature, seeing the beauty of the form of God, smiled with insatiate love of Man, showing the reflection of that most beautiful form in the water, and its shadow on the earth."},
+      "source_detail": {"section": 14, "topic": "nature_loves_man"}
+    },
+    {
+      "sequence_num": 15,
+      "translation": {"en": "And he, seeing this form, a form like to his own in Nature reflected in the water, loved it and willed to dwell there. And the deed followed close on the design; and he took up his abode in matter devoid of reason. And Nature, when she had got him with whom she was in love, wrapped him in her clasp, and they were mingled in one."},
+      "source_detail": {"section": 15, "topic": "man_and_nature_unite"}
+    },
+    {
+      "sequence_num": 16,
+      "translation": {"en": "And that is why man, unlike all other living creatures upon earth, is twofold. He is mortal by reason of his body; he is immortal by reason of the Man of eternal substance."},
+      "source_detail": {"section": 15, "topic": "dual_nature_of_man"}
+    },
+    {
+      "sequence_num": 17,
+      "translation": {"en": "But I, the Mind, will not suffer it that the operations that befall the body shall bring their effects to the destined end. Being doorkeeper, I will close the entrances to evil deeds, cutting off the workings of the thoughts that they inspire."},
+      "source_detail": {"section": 22, "topic": "mind_as_guardian"}
+    },
+    {
+      "sequence_num": 18,
+      "translation": {"en": "But to those who are mindful I, the Mind, am present. I am the path. Take me as your guide. And I shall lead you to the doors of knowledge, where shines the light in which there is no darkness."},
+      "source_detail": {"section": 22, "topic": "mind_as_guide"}
+    },
+    {
+      "sequence_num": 19,
+      "translation": {"en": "And I inscribed in myself the benefaction of Poimandres; and being filled with what he had taught me, I was exceeding glad. For the sleep of my body had become the soul's waking; the closing of my eyes, true vision; my silence, pregnant with good; my giving utterance to the Word, a brood of goods."},
+      "source_detail": {"section": 30, "topic": "closing_transformation"}
+    },
+    {
+      "sequence_num": 20,
+      "translation": {"en": "And this befell me, in that I received from my Mind, that is, from Poimandres, the Word (Logos) of the Sovereignty. Divinely inspired, I came into the truth. Therefore from my soul and with all my strength I give praise to God the Father."},
+      "source_detail": {"section": 30, "topic": "closing_praise"}
+    },
+    {
+      "sequence_num": 21,
+      "translation": {"en": "Holy is God the Father of all, who is before the first beginning. Holy is God, whose will is accomplished by his own powers. Holy is God, who wills to be known, and is known by his own. Holy art thou, who by the Word hast constituted all things that are."},
+      "source_detail": {"section": 31, "topic": "hymn_to_god", "note": "Direct Logos theology: God creates by Word (Logos), paralleling Ptah creating through tongue/speech"}
+    }
+  ]
+}

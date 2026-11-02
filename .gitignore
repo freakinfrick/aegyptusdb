@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment
+.env
+
+# Data (upstream clones are large, not committed)
+data/upstream/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes
+pgdata/
+miniodata/
+
+# Alembic
+schema/versions/__pycache__/
+
+# Byte-compiled
+*.pyc
+
+# Coverage / testing
+.coverage
+htmlcov/
+.pytest_cache/
+web/audio_cache/
+
+# Trained model weights
+data/models/
+
+# Ultralytics auto-downloads and Playwright scratch
+*.pt
+weights/
+.playwright-mcp/
+
+# Local outputs
+export/
+backups/
+web/audio_cache/

@@ -1,0 +1,395 @@
+{
+  "canonical_id": "aeg_manual_edfu_foundation_rite_brugsch1870",
+  "conventional_name": "Edfu, foundation rite ('stretching the cord') and building measures / Brugsch, ZÄS 8 (1870)",
+  "script_type": "hieroglyphic",
+  "date_earliest": -237,
+  "date_latest": -57,
+  "period_label": "Ptolemaic",
+  "findspot": "Edfu",
+  "current_location": "in situ, Temple of Horus, Edfu",
+  "text_type": "ritual scene caption / building inscription",
+  "completeness": "fragmentary",
+  "source_corpus": [
+    "manual"
+  ],
+  "extra_metadata": {
+    "license": "public_domain",
+    "needs_review": true,
+    "ml_draft_layers": [
+      "translation.en",
+      "transliteration"
+    ],
+    "note": "19th-century German translation (public domain), OCR lightly cleaned; 'fs' in German = ß (period typography). English and transliteration are machine drafts. No hieroglyph layer (plates are lithographs).",
+    "sources": [
+      "Brugsch, H. (1870) 'Bau und Maafse des Tempels von Edfu', ZÄS 8: 153-160."
+    ],
+    "archive_org": "zeitschriftfr08brug",
+    "pdf_pages": "169-176",
+    "editor_reading": "Brugsch: the rite orients the temple to the four quarters by star observation (Great Bear = true north) timed with a clock (merkhet)."
+  },
+  "aliases": [
+    "Edfu stretching of the cord",
+    "Edfu foundation ceremony",
+    "pḏ šs Edfu"
+  ],
+  "sentences": [
+    {
+      "sequence_num": 1,
+      "transliteration": null,
+      "translation": {
+        "de": "Ich habe gefafst den Holzpflock und den Stiel des Schlägels, ich halte den Strick gemeinschaftlich mit der Göttin Safex. Mein Blick folgt dem Gange der Gestirne. Wenn mein Auge an der Constellation des grofsen Bären angekommen ist und erfüllt ist der mir bestimmte Zeitabschnitt der Zahl der Uhr, so stelle ich auf die Eckpunkte deines Gotteshauses.",
+        "en": "I have grasped the wooden peg and the handle of the mallet; I hold the cord together with the goddess Seshat. My gaze follows the course of the stars. When my eye has reached the constellation of the Great Bear, and the period of time allotted to me by the count of the clock is fulfilled, I set up the corner points of your house of god."
+      },
+      "source_detail": {
+        "context": "king's speech, version A (Edfu, west enclosure wall, scene 'stretching the cord')",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 2,
+      "transliteration": null,
+      "translation": {
+        "de": "Ich habe ergriffen den Holzpflock, ich halte den Stiel des Schlägels, ich fasse den Strick in Gemeinschaft mit der Göttin Safex. Ich wende mein Gesicht nach dem Gange der (aufsteigenden) Gestirne. Wenn mein Auge bis zur Constellation des grofsen Bären gelangt ist und der mir bestimmte Zeitabschnitt an der Stelle seiner Stunde seinen Stand einnimmt, so stelle ich auf die vier Eckpunkte deines Gotteshauses.",
+        "en": "I have seized the wooden peg, I hold the handle of the mallet, I grasp the cord in company with the goddess Seshat. I turn my face to the course of the (rising) stars. When my eye has reached the constellation of the Great Bear, and the period of time allotted to me takes its place at its hour, I set up the four corner points of your house of god."
+      },
+      "source_detail": {
+        "context": "king's speech, version B",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 3,
+      "transliteration": null,
+      "translation": {
+        "de": "der Gott, der Vermesser dieser Erde",
+        "en": "the god, the measurer of this earth"
+      },
+      "source_detail": {
+        "context": "epithet of Thoth (Edfu)",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 4,
+      "transliteration": null,
+      "translation": {
+        "de": "Elle des Thoth",
+        "en": "cubit of Thoth"
+      },
+      "source_detail": {
+        "context": "name of the cubit of the Edfu plan",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 5,
+      "transliteration": null,
+      "translation": {
+        "de": "das Mesen-Gemach ist an ihrer (der Tempelanlage) Spitze, versehen mit seinem Nothwendigen, Notem-änx heifst es mit seinem Namen",
+        "en": "The Mesen chamber is at its (the temple complex's) head, furnished with what it needs; Nedjem-ankh is its name."
+      },
+      "source_detail": {
+        "context": "building description",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 6,
+      "transliteration": null,
+      "translation": {
+        "de": "das Sieger-Gemach, sein innerer Raum ist als ihr (der Tempelanlage) erstes Grenzgemach, es gilt als Anfang von vorn, als Theiler ihrer (der Tempelanlage) Mitte",
+        "en": "the Victor's chamber: its interior is the first boundary chamber of the temple complex; it counts as the beginning from the front, as the divider of its middle."
+      },
+      "source_detail": {
+        "context": "building description",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 7,
+      "transliteration": null,
+      "translation": {
+        "de": "Ein hockender Sperber, eine Elle lang, mit einer Geifsel und die Göttin der Wahrheit vor ihm. Seine Heiligkeit auf seinem Postamente trennt sich weder Tag noch Nacht von ihr.",
+        "en": "A crouching falcon, one cubit long, with a flail, and the goddess of truth before him. His Holiness on his pedestal is parted from her neither by day nor by night."
+      },
+      "source_detail": {
+        "context": "building description, cult image",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 8,
+      "transliteration": null,
+      "translation": {
+        "de": "von Süd nach Nord 110 (Ellen).",
+        "en": "from south to north, 110 (cubits)."
+      },
+      "source_detail": {
+        "context": "axis length of a temple wall (unpublished Edfu building record)",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 9,
+      "transliteration": null,
+      "translation": {
+        "de": "seiend Ellen 400 von Süd nach Nord an der Brüstung",
+        "en": "being 400 cubits from south to north at the parapet"
+      },
+      "source_detail": {
+        "context": "total wall lengths along the temple axis",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 10,
+      "transliteration": null,
+      "translation": {
+        "de": "von Süd nach Nord sind vollendet die 110 (Ellen).",
+        "en": "from south to north the 110 (cubits) are completed."
+      },
+      "source_detail": {
+        "context": "axis length, third instance",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 11,
+      "transliteration": null,
+      "translation": {
+        "de": "ich habe gefafst die Holzform des Ziegels, ich habe gestrichen den Ziegelstein, ich habe vereint die Erde mit Wasser.",
+        "en": "I have grasped the wooden mould of the brick, I have moulded the brick, I have joined the earth with water."
+      },
+      "source_detail": {
+        "context": "king's speech, brick-moulding rite",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 12,
+      "transliteration": null,
+      "translation": {
+        "de": "das Aufhacken des Bauplatzes, das Geben des Wassers.",
+        "en": "the hoeing of the building site, the giving of water."
+      },
+      "source_detail": {
+        "context": "rite: preparing the site",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 13,
+      "transliteration": null,
+      "translation": {
+        "de": "ausgezeichnet sind die Ellen alle von dem Heiligthume, ausgezeichnete Elle genannt mit ihrem Namen.",
+        "en": "excellent are all the cubits of the sanctuary; 'excellent cubit' it is called by its name."
+      },
+      "source_detail": {
+        "context": "name of the cubit",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 14,
+      "transliteration": null,
+      "translation": {
+        "de": "das Mesen-Gemach in ihrer Mitte als Gemach erstes",
+        "en": "the Mesen chamber, in its middle, as the first chamber"
+      },
+      "source_detail": {
+        "context": "position of the sanctuary",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 15,
+      "transliteration": null,
+      "translation": {
+        "de": "seine (des Gemaches) Länge beträgt an Ellen 8⅓, seine Breite 6⅔.",
+        "en": "its (the chamber's) length is 8⅓ cubits, its width 6⅔."
+      },
+      "source_detail": {
+        "context": "dimensions of the sanctuary (Mesen)",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true,
+        "reading_conflict": "Width disputed: Brugsch 1870 printed 6⅔ (checked on the page image); a modern translation (Kurth, as quoted in interpreterfoundation.org 'Edfu and Exodus') gives 5⅔. Unverified against the hieroglyphs."
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 16,
+      "transliteration": null,
+      "translation": {
+        "de": "Name des heiligen Gemaches dieses Gottes ist Notem-änx, desgleichen auch Mesen.",
+        "en": "The name of the sacred chamber of this god is Nedjem-ankh, and also Mesen."
+      },
+      "source_detail": {
+        "context": "name of the sanctuary",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 17,
+      "transliteration": null,
+      "translation": {
+        "de": "eine Nische des Horus in seiner herrlichen symbolischen Gestalt",
+        "en": "a niche of Horus in his splendid symbolic form"
+      },
+      "source_detail": {
+        "context": "cult niche",
+        "source": "Brugsch 1870, ZÄS 8 pp. 154-160",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "0": {
+    "name": "THE ENTRANCE HALL",
+    "subtitle": "Surface Level",
+    "description": "Where all journeys begin. The Oracle stands at the center.",
+    "halls": []
+  },
+  "1": {
+    "name": "UPPER GALLERIES",
+    "subtitle": "Level I — The Living Word",
+    "description": "Texts of speech, language, body, and the earthly realm.",
+    "halls": [
+      {
+        "id": "utterance",
+        "name": "HALL OF UTTERANCE",
+        "subtitle": "𓂋𓏤 — mdw nṯr · Divine Speech",
+        "description": "Where language becomes creation. The tongue, the mouth, the word.",
+        "rooms": [
+          "tongue",
+          "mouth",
+          "word",
+          "name"
+        ]
+      },
+      {
+        "id": "body",
+        "name": "HALL OF THE BODY",
+        "subtitle": "𓁹𓂋 — ḥꜥw · The Flesh",
+        "description": "The body as temple. Eye, heart, spine — each organ a cosmos.",
+        "rooms": [
+          "eye",
+          "heart",
+          "spine",
+          "hand"
+        ]
+      }
+    ]
+  },
+  "2": {
+    "name": "MIDDLE DEPTHS",
+    "subtitle": "Level II — Between Worlds",
+    "description": "Texts of death, power, temples, and the boundary between realms.",
+    "halls": [
+      {
+        "id": "dead",
+        "name": "HALL OF THE DEAD",
+        "subtitle": "𓇋𓅓𓊹 — ẖrt-nṯr · The Necropolis",
+        "description": "Funerary texts, tomb inscriptions, the journey to the West.",
+        "rooms": [
+          "tomb",
+          "offering",
+          "judgment",
+          "mummy"
+        ]
+      },
+      {
+        "id": "power",
+        "name": "HALL OF POWER",
+        "subtitle": "𓊹𓏤 — nsw · The Throne",
+        "description": "Royal decrees, administrative records, the machinery of empire.",
+        "rooms": [
+          "temple",
+          "king",
+          "decree",
+          "war"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "name": "DEEP ARCHIVES",
+    "subtitle": "Level III — The Hidden Knowledge",
+    "description": "Magical texts, spells, rituals, healing formulae. The secret arts.",
+    "halls": [
+      {
+        "id": "secrets",
+        "name": "HALL OF SECRETS",
+        "subtitle": "𓊹𓌃 — ḥkꜣ · Magic",
+        "description": "Spells, amulets, curses, protective formulae, ritual instructions.",
+        "rooms": [
+          "spell",
+          "amulet",
+          "ritual",
+          "healing"
+        ]
+      },
+      {
+        "id": "cosmos",
+        "name": "HALL OF CREATION",
+        "subtitle": "𓊹𓇯 — nṯr · The Divine",
+        "description": "Cosmogony, hymns, prayers, the gods and their domains.",
+        "rooms": [
+          "creation",
+          "flood",
+          "sun",
+          "hymn"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "name": "THE ABYSS",
+    "subtitle": "Level IV — Eternity",
+    "description": "The deepest knowledge. Philosophy, wisdom literature, the nature of existence.",
+    "halls": [
+      {
+        "id": "wisdom",
+        "name": "HALL OF WISDOM",
+        "subtitle": "𓇋𓂋𓏤 — sꜣ · Knowledge",
+        "description": "Teachings, instructions, philosophical treatises, the words of the sages.",
+        "rooms": [
+          "pillar",
+          "wisdom",
+          "truth",
+          "time"
+        ]
+      }
+    ]
+  }
+}

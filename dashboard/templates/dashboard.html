@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Aegyptus Corpus Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f3ef;
+            color: #2c2416;
+            line-height: 1.5;
+            padding: 2rem;
+        }
+        h1 {
+            font-size: 1.8rem;
+            margin-bottom: 0.5rem;
+            color: #5c4a2a;
+        }
+        h2 {
+            font-size: 1.2rem;
+            color: #7a6440;
+            margin-bottom: 0.75rem;
+            border-bottom: 2px solid #d4c9b0;
+            padding-bottom: 0.25rem;
+        }
+        .subtitle {
+            color: #8a7a5a;
+            margin-bottom: 2rem;
+            font-size: 0.9rem;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .card {
+            background: #fff;
+            border: 1px solid #d4c9b0;
+            border-radius: 6px;
+            padding: 1.25rem;
+        }
+        .stat-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 0.4rem 0;
+            border-bottom: 1px solid #eee;
+        }
+        .stat-row:last-child { border-bottom: none; }
+        .stat-label { color: #666; }
+        .stat-value { font-weight: 600; color: #2c2416; }
+        .big-number {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #5c4a2a;
+        }
+        .big-label {
+            color: #8a7a5a;
+            font-size: 0.85rem;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+        th {
+            text-align: left;
+            padding: 0.5rem;
+            border-bottom: 2px solid #d4c9b0;
+            color: #7a6440;
+            font-weight: 600;
+        }
+        td {
+            padding: 0.4rem 0.5rem;
+            border-bottom: 1px solid #eee;
+        }
+        tr:hover td { background: #faf8f4; }
+        .badge {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            border-radius: 3px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+        .badge-p0 { background: #fee; color: #c00; }
+        .badge-p1 { background: #fff3e0; color: #e65100; }
+        .badge-p2 { background: #fff8e1; color: #f57f17; }
+        .badge-p3 { background: #e8f5e9; color: #2e7d32; }
+        .badge-open { background: #e3f2fd; color: #1565c0; }
+        .badge-closed { background: #eee; color: #666; }
+        .overview-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .overview-item {
+            background: #fff;
+            border: 1px solid #d4c9b0;
+            border-radius: 6px;
+            padding: 1rem;
+            text-align: center;
+        }
+        .bar {
+            height: 20px;
+            background: #d4c9b0;
+            border-radius: 3px;
+            margin-top: 0.25rem;
+        }
+        .bar-fill {
+            height: 100%;
+            background: #7a6440;
+            border-radius: 3px;
+            min-width: 2px;
+        }
+        .wide { grid-column: span 2; }
+        @media (max-width: 600px) { .wide { grid-column: span 1; } }
+        footer {
+            margin-top: 2rem;
+            text-align: center;
+            color: #aaa;
+            font-size: 0.8rem;
+        }
+    </style>
+</head>
+<body>
+    <h1>&#x13171; Aegyptus Corpus Dashboard</h1>
+    <p class="subtitle">Open Corpus of Ancient Egyptian Texts &mdash; Corpus Health Monitor</p>
+
+    <!-- Overview -->
+    <div class="overview-grid">
+        <div class="overview-item">
+            <div class="big-number">{{ overview.texts | fmt_number }}</div>
+            <div class="big-label">Texts</div>
+        </div>
+        <div class="overview-item">
+            <div class="big-number">{{ overview.sentences | fmt_number }}</div>
+            <div class="big-label">Sentences</div>
+        </div>
+        <div class="overview-item">
+            <div class="big-number">{{ overview.representation_layers | fmt_number }}</div>
+            <div class="big-label">Layers</div>
+        </div>
+        <div class="overview-item">
+            <div class="big-number">{{ overview.concordance | fmt_number }}</div>
+            <div class="big-label">Concordance Links</div>
+        </div>
+        <div class="overview-item">
+            <div class="big-number">{{ overview.aliases | fmt_number }}</div>
+            <div class="big-label">Aliases</div>
+        </div>
+        <div class="overview-item">
+            <div class="big-number">{{ overview.gaps | fmt_number }}</div>
+            <div class="big-label">Gaps Tracked</div>
+        </div>
+    </div>
+
+    <div class="grid">
+        <!-- Gap Statistics -->
+        <div class="card wide">
+            <h2>Gap Analysis</h2>
+            {% if gaps %}
+            <table>
+                <tr>
+                    <th>Gap Type</th>
+                    <th>Priority</th>
+                    <th>Status</th>
+                    <th>Count</th>
+                </tr>
+                {% for g in gaps %}
+                <tr>
+                    <td>{{ g.gap_type }}</td>
+                    <td><span class="badge badge-{{ g.priority | lower }}">{{ g.priority }}</span></td>
+                    <td><span class="badge badge-{{ g.status }}">{{ g.status }}</span></td>
+                    <td>{{ g.count | fmt_number }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+            {% else %}
+            <p style="color: #888; padding: 1rem 0;">No gaps tracked yet. Run: <code>python -m gap_tracker --full</code></p>
+            {% endif %}
+        </div>
+
+        <!-- Source Breakdown -->
+        <div class="card">
+            <h2>Texts by Source</h2>
+            {% for s in sources %}
+            <div class="stat-row">
+                <span class="stat-label">{{ s.source }}</span>
+                <span class="stat-value">{{ s.count | fmt_number }}</span>
+            </div>
+            {% endfor %}
+        </div>
+
+        <!-- Sentences by Source -->
+        <div class="card">
+            <h2>Sentences by Source</h2>
+            {% for s in sentences_by_source %}
+            <div class="stat-row">
+                <span class="stat-label">{{ s.source }}</span>
+                <span class="stat-value">{{ s.count | fmt_number }}</span>
+            </div>
+            {% endfor %}
+        </div>
+
+        <!-- Layer Coverage -->
+        <div class="card">
+            <h2>Layer Coverage</h2>
+            <table>
+                <tr><th>Layer Type</th><th>Texts</th><th>Layers</th></tr>
+                {% for lc in layer_coverage %}
+                <tr>
+                    <td>{{ lc.layer_type }}</td>
+                    <td>{{ lc.texts_covered | fmt_number }}</td>
+                    <td>{{ lc.total_layers | fmt_number }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+
+        <!-- Confidence Distribution -->
+        <div class="card">
+            <h2>Confidence (Layers)</h2>
+            {% for c in confidence.layers %}
+            <div class="stat-row">
+                <span class="stat-label">{{ c.confidence or 'unset' }}</span>
+                <span class="stat-value">{{ c.count | fmt_number }}</span>
+            </div>
+            {% endfor %}
+            <h2 style="margin-top: 1rem;">Confidence (Sentences)</h2>
+            {% for c in confidence.sentences %}
+            <div class="stat-row">
+                <span class="stat-label">{{ c.confidence or 'unset' }}</span>
+                <span class="stat-value">{{ c.count | fmt_number }}</span>
+            </div>
+            {% endfor %}
+        </div>
+
+        <!-- Layers by Source -->
+        <div class="card">
+            <h2>Layers by Source</h2>
+            {% for l in layers_by_source %}
+            <div class="stat-row">
+                <span class="stat-label">{{ l.source }}</span>
+                <span class="stat-value">{{ l.count | fmt_number }}</span>
+            </div>
+            {% endfor %}
+        </div>
+
+        <!-- Recent Activity -->
+        <div class="card wide">
+            <h2>Recent Imports</h2>
+            <table>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Script</th>
+                    <th>Period</th>
+                    <th>Created</th>
+                </tr>
+                {% for r in recent %}
+                <tr>
+                    <td style="font-family: monospace; font-size: 0.85rem;">{{ r.canonical_id }}</td>
+                    <td>{{ r.name }}</td>
+                    <td>{{ r.script_type }}</td>
+                    <td>{{ r.period }}</td>
+                    <td>{{ r.created_at or '' }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+
+    <footer>
+        Project Aegyptus &mdash; Open Corpus of Ancient Egyptian Texts
+    </footer>
+</body>
+</html>

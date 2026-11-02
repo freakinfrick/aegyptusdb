@@ -1,0 +1,839 @@
+{
+  "canonical_id": "aeg_manual_edfu_bauurkunde_duemichen1870",
+  "conventional_name": "Edfu, Bauurkunde (west outer enclosure wall, lower frieze) / Dümichen, ZÄS 8 (1870)",
+  "script_type": "hieroglyphic",
+  "date_earliest": -107,
+  "date_latest": -88,
+  "period_label": "Ptolemaic",
+  "findspot": "Edfu",
+  "current_location": "in situ, Temple of Horus, Edfu",
+  "text_type": "building inscription",
+  "completeness": "damaged",
+  "source_corpus": [
+    "manual"
+  ],
+  "extra_metadata": {
+    "license": "public_domain",
+    "needs_review": true,
+    "ml_draft_layers": [
+      "translation.en",
+      "transliteration"
+    ],
+    "note": "19th-century German translation (public domain), OCR lightly cleaned; 'fs' in German = ß (period typography). English and transliteration are machine drafts. No hieroglyph layer (plates are lithographs).",
+    "sources": [
+      "Dümichen, J. (1870) 'Bauurkunde der Tempelanlagen von Edfu', ZÄS 8: 1-4, 2 pls."
+    ],
+    "archive_org": "zeitschriftfr08brug",
+    "pdf_pages": "8-11",
+    "ptolemy_numbering": "Dümichen's 1870 numbering: from Philometor on, modern = his number minus one (his IX Euergetes II = Ptolemy VIII, X Soter II = IX, XI Alexander I = X)."
+  },
+  "aliases": [
+    "Edfu building text",
+    "Bauurkunde von Edfu",
+    "Edfu building inscription"
+  ],
+  "sentences": [
+    {
+      "sequence_num": 1,
+      "transliteration": null,
+      "translation": {
+        "de": "Der Sonnengott, der schöne, der sich erhebt am Horizonte von Edfu, Gott Ahi, der Herr des Himmels, er nahte sich seinem Lande und freute sich über sein strahlendes Haus woselbst thront sein Bild auf seinem Sitze; er schaute diesen herrlichen Bau, ausgeführt von seinem geliebten Erben, dem Könige Ptolemäus XI Alexander I, vom Horus, dem grol'sen Gotte, dem Herrn des Himmels, der als Strahlenschleuderer heraustritt aus dem Sonnenberge, vom Gotte Armanis in seinem Grofssitze geliebt.",
+        "en": "The sun god, the beautiful one, who rises on the horizon of Edfu, the god Ahi, lord of heaven: he drew near to his land and rejoiced over his radiant house, where his image sits enthroned on its seat; he beheld this splendid building, carried out by his beloved heir, King Ptolemy XI Alexander I, beloved of Horus, the great god, lord of heaven, who comes forth from the sun-mountain as the hurler of rays, and of the god Harmachis in his great seat."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 2,
+      "transliteration": null,
+      "translation": {
+        "de": "Die Mauer, diese schöne, grofse von Edfu, nicht ist gemacht, was ihr gleich käme, seit Urzeiten; ein Wunder an Gröfse, wie es kein zweites giebt, nicht ist geschaffen seit den Zeiten der Götter ein göttlicher Bau, gestaltet wie sie, dort, wo Tempel sich befinden in Aegypten.",
+        "en": "The wall, this beautiful great one of Edfu: nothing equal to it has been made since primeval times; a wonder of size like no other; no divine building shaped like it has been created since the time of the gods, wherever temples stand in Egypt."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 3,
+      "transliteration": null,
+      "translation": {
+        "de": "Es führt rings herum dieser schöne Umgang als ein Aussenbau auf den vier Seiten, welche aussehen wie der Sonnenberg des Himmels.",
+        "en": "This beautiful ambulatory runs all around as an outer structure on the four sides, which look like the sun-mountain of heaven."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 4,
+      "transliteration": null,
+      "translation": {
+        "de": "Die da hineintreten, ein Jeder, er tritt ein in einen Himmel von Monumenten, zu einer Auswahl von Herrlichkeiten und Vollkommenheiten, ausgeführt von Sr. Majestät und seinen Vätern.",
+        "en": "Whoever enters, each one enters a heaven of monuments, a selection of splendours and perfections, made by His Majesty and his fathers."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 5,
+      "transliteration": null,
+      "translation": {
+        "de": "Eingegraben sind ihre Namen in ihnen auf dem Stein, damit fortdaure ihr Name durch ihre Werke, damit sie verkünden ihre Wohlthaten der Nachwelt, damit fest seien ihre Namen wie ihre Monumente, damit man preise Se. Majestät ob seines Bauwerkes, damit man erhebe die Herrlichkeiten, welche die Schöpfungen des Königs, damit sie vergröfsem ihre geheiligten Personen im Antlitze derer, die sie nicht mehr schauen in ihrem Lobe, bei ihren Kindern, zahlreich (?) sind sie, damit bleibe ihr Name in ihrem Tempel Millionen von Millionen Jahre, damit sie ehre der Strahlenschleuderer Horus durch Befestigung ihres Ruhmes in alle Ewigkeit.",
+        "en": "Their names are engraved in them on the stone, so that their name may endure through their works, so that they may proclaim their benefactions to posterity, so that their names may be as firm as their monuments, so that His Majesty may be praised for his building, so that the splendours that are the king's creations may be exalted, so that they may magnify their sacred persons before those who no longer see them, in their praise, among their children (numerous (?) are they), so that their name may remain in their temple for millions of millions of years, so that Horus the hurler of rays may honour them by establishing their fame for all eternity."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 6,
+      "transliteration": null,
+      "translation": {
+        "de": "Blicket hernieder, ihr Könige von Ober- und Unterägypten auf den König und die Auserlesenen von Edfu, auf den ersten und obersten der Propheten in den Tempelräumen, auf die Hohenpriester in den Heiligthümern des Thoth, auf die Vorleser, die grofsen, vertraut mit den heiligen Gesetzen.",
+        "en": "Look down, you kings of Upper and Lower Egypt, on the king and the chosen ones of Edfu, on the first and highest of the prophets in the temple rooms, on the high priests in the sanctuaries of Thoth, on the great lector priests, versed in the sacred laws."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 7,
+      "transliteration": null,
+      "translation": {
+        "de": "Von Elephantine bis zur Küste des Meeres schifft man herbei vom Süden und segelt heran von Norden, landet an dem Damme von Apollinopolis und steigt empor zu dem Tempel des geflügelten Sonnengottes, um sich niederzuwerfen vor dem Strahlenschleuderer Horus.",
+        "en": "From Elephantine to the coast of the sea people sail here from the south and come under sail from the north, land at the quay of Apollinopolis and climb up to the temple of the winged sun god to prostrate themselves before Horus the hurler of rays."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 8,
+      "transliteration": null,
+      "translation": {
+        "de": "Man macht die Runde in diesem schönen Umgang, man umschreitet die vier Seiten des Tempels im Anstaunen die Monumente, die grofsen, dem hergerichtet von Sr. Majestät im Edfutempel, Werk der Hände Der göttliche Sitz des Sonnengottes seiner Väter und Mütter.",
+        "en": "People walk the round of this beautiful ambulatory, they go around the four sides of the temple marvelling at the great monuments made by His Majesty in the temple of Edfu, the work of the hands of his fathers and mothers. The divine seat of the sun god"
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 9,
+      "transliteration": null,
+      "translation": {
+        "de": "(einer der Namen für das Adytum, neben Sehern, Sep-ur-t, Mesen und anderen Namen, von denen die beiden letzteren dann auch zuweilen für die ganze Tempelanlage eintreten : hier scheint der Name das ganze Tempelhaus mit Ausschlufs des vordersten Saales zu bezeichnen) welcher erbaut in ihm, er ist gleich gemacht dem Sonnenberge des Himmels.",
+        "en": "[Editor's gloss: one of the names for the adytum, beside Seher, Sep-ur-t, Mesen and others; here it seems to mean the whole temple house except the front hall] which is built within it is made like the sun-mountain of heaven."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "kind": "editor_gloss",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 10,
+      "transliteration": null,
+      "translation": {
+        "de": "Der Chent-Saal (der vorderste grofse Säulensaal) in ihm, von Osten nach Westen gerichtet, er gleicht dem Himmel mit den Seelen der Götter, er ist höher als das Mesen (scheint auch hier wieder den ganzen hinter dem vordersten Saale gelegenen Bau, das ganze Tempelhaus, mit Ausschlufs des ersten Saales, zu bezeichnen), zu seiner Rechten und Linken erhebt sich seine Höhe vor dem Innenbau, Säulen von Papyrus-, Lotos- und Palmen - Capitälen sind im Tragen den Bau, wie die vier Stützen des Himmels sind im Tragen die Himmelsdecke.",
+        "en": "The Chent hall (the great front hypostyle) within it, oriented from east to west, is like heaven with the souls of the gods; it is higher than the Mesen [editor: apparently again the whole temple house behind the front hall]; its height rises to its right and left before the inner building; columns with papyrus, lotus and palm capitals carry the building as the four supports of heaven carry the sky."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 11,
+      "transliteration": null,
+      "translation": {
+        "de": "Der gleichfalls mit Säulen versehene Opfervorhof hinter ihm gleicht der Göttin des Himmelsraumes, der Gebärerin des Lichtstrahles.",
+        "en": "The offering court behind it, likewise furnished with columns, is like the goddess of the sky, who gives birth to the sunbeam."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 12,
+      "transliteration": null,
+      "translation": {
+        "de": "Das als Doppelthurra sich erhebende Eingangsthor da 3 hinter, zu seiner Rechten und Linken, gleicht den beiden göttlichen Schwestern Isis und Nephthis, wenn sie hochheben die Sonnenscheibe ....",
+        "en": "The entrance gate behind it, rising as a double tower to its right and left, is like the two divine sisters Isis and Nephthys when they lift up the sun disc ...."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 13,
+      "transliteration": null,
+      "translation": {
+        "de": "Aufgeschrieben sind ihre Gründungen, die Monate und Tage, an denen man ihre Messungen machte .... aufgeschrieben sind ihre Arbeiten, beginnend mit dem grofsen Sechstagefeste des Eröflfnens ihr Inneres durch den Sohn der Sonne.",
+        "en": "Their foundations are written down, the months and days on which their measurements were made .... their works are written down, beginning with the great six-day festival of the opening of its interior by the son of the sun."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 14,
+      "transliteration": null,
+      "translation": {
+        "de": "Die Könige von Ober- Aegypten, eingemeisselt sind ihre Gründungen in ihnen, die Könige von Unter -Aegypten, welche gebaut, die königlichen Herrscher, welche gebaut, eingeschnitten sind ihre Namen an ihren Wänden.",
+        "en": "The kings of Upper Egypt, their foundations are carved in them; the kings of Lower Egypt who built, the royal rulers who built: their names are cut on their walls."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 15,
+      "transliteration": null,
+      "translation": {
+        "de": "Tag dieser schöne des Beginnens (den Bau im Jahre 10) am 7. Epiphi zur Zeit des Königs Ptolemäus III Euergetes Ein Sechstagefest war es, an welchen I. man eröffnete das Innere, im Feiern (?) während des ganzen Sechstagefestes die Grundsteinlegung.",
+        "en": "This beautiful day of beginning (the building, in year 10), on the 7th of Epiphi, in the time of King Ptolemy III Euergetes. It was a six-day festival on which the interior was opened, the foundation-laying being celebrated (?) throughout the whole six-day festival."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 16,
+      "transliteration": null,
+      "translation": {
+        "de": "Man gründete den Tempel des Ra-Armaxis, man gründete das Edfu des Vertheidigers seines Vaters.",
+        "en": "The temple of Ra-Harmachis was founded; the Edfu of the avenger of his father was founded."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 17,
+      "transliteration": null,
+      "translation": {
+        "de": "Der König selbst in Gemeinschaft mit der Göttin Safe% (Sie ist die Göttin der Weisheit, heifst also wohl nur „nach weiser Ueberlegung\") ist im Legen den Grund zu dem Adytum in seinem Innern, seine Seitengemächer, an ihren Plätzen wohlgeordnet durch die Weisen, mit allem Nöthigen nach dem Sinne des Thoth.",
+        "en": "The king himself, together with the goddess Seshat [editor: she is the goddess of wisdom, so this probably just means 'after wise deliberation'], laid the foundation of the adytum within it and its side chambers, well ordered in their places by the sages, with everything needful according to the mind of Thoth."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 18,
+      "transliteration": null,
+      "translation": {
+        "de": "Die Baumeister waren im Bauen ....",
+        "en": "The master builders were building ...."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 19,
+      "transliteration": null,
+      "translation": {
+        "de": "(in der jetzt folgenden Stelle, die ich nicht zu übersetzen wage, scheint vom Gotte Ptah dem obersten Baumeister die Rede zu sein",
+        "en": "[Editor's note: in the passage that follows, which I dare not translate, the god Ptah, the supreme master builder, seems to be spoken of]"
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "kind": "editor_note",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 20,
+      "transliteration": null,
+      "translation": {
+        "de": "So vollendete man das Tempelhaus, stellte herrlich her das innere Heiligthum (Mesen) dem Goldhorus bis zum Jahre 10 im Monat Epiphi, und zwar bis zum 7. des Monats zur Zeit des Königs Ptolemäus IV Philopator.",
+        "en": "Thus the temple house was completed, and the inner sanctuary (Mesen) was splendidly made for the Golden Horus, by year 10, month Epiphi, namely by the 7th of the month, in the time of King Ptolemy IV Philopator."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 21,
+      "transliteration": null,
+      "translation": {
+        "de": "Kommt auf die Herstellung 25 Jahre, Man schmückte durch Schrift die Mauer in ihm in wohlausgeführter Sculptur mit dem grofsen Namen Sr. Majestät und mit den Bildern der Götter und Göttinnen, den herrlichen von Edfa und man vollendete sein grofses Thor und die beiden Thürflügel seines breiten Saales bis zum Jahre 16 Sr. Majestät.",
+        "en": "This comes to 25 years for the construction. The wall within it was adorned with writing in well-made sculpture, with the great name of His Majesty and with the images of the gods and goddesses, the splendid ones of Edfu; and its great gate and the two door leaves of its broad hall were finished by year 16 of His Majesty."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 22,
+      "transliteration": null,
+      "translation": {
+        "de": "Da brach eine Revolution aus und es ereignete sich nun dafs die Baude der Empörer sich dort befand in ihrem Versteck im Innern des Tempels, als es drunter und drüber ging (tenten) auch im Süden; doch unter der Regierung im Jahre 19 des verstorbenen Königs Ptolemäus V Epiphanes, war siegreich der König und dämpfte die Revolution im Lande; ofliciell eingeschrieben ist sein Name, siehe, in ihm (dem Tempel).",
+        "en": "Then a revolt broke out, and it came about that the band of rebels was there in its hiding place inside the temple, while everything was in turmoil (tenten) in the south too; but in year 19 of the reign of the late King Ptolemy V Epiphanes the king was victorious and put down the revolt in the land; his name is officially inscribed, behold, in it (the temple)."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 23,
+      "transliteration": null,
+      "translation": {
+        "de": "Im Jahre 5, am 1. Tybi seines geliebten Sohnes, des verstorbenen Königs Ptolemäus VII Philometor wurde aufgerichtet das grofse Holzthor in dem Saale des grofsen Siegers und die beiden Thürflügel des Hai-Saales (des zweiten I2säuligen Saales).",
+        "en": "In year 5, on the 1st of Tybi, of his beloved son, the late King Ptolemy VII Philometor, the great wooden gate in the hall of the great victor was set up, and the two door leaves of the Hai hall (the second twelve-columned hall)."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 24,
+      "transliteration": null,
+      "translation": {
+        "de": "Gleichermaafsen wurde von Neuem vorgenommen die Arbeit im Innern des Waffengemaches (Ha-ken scheint das mittelste der 3 hinter dem Adytum gelegenen Zimmer zu sein) im Jahre 40 dieses Königs.",
+        "en": "Likewise the work inside the weapon chamber was taken up anew (Ha-ken seems to be the middle one of the three rooms behind the adytum), in year 40 of this king."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 25,
+      "transliteration": null,
+      "translation": {
+        "de": "Mit der Vollendung der Hieroglyphenschrift, eingemeifselt auf den Stein, mit der Ausschmückung seiner Mauer durch Gold, mit dem Auftragen der Farben, mit der Vollendung der Zimmerarbeit seiner Thüren, mit der Fabrikation seiner Thürständer aus gutem Erz, mit seinen Thürpfosten und seinen Metallschlössern , mit dem Auflegen der Goldplatten an seinen Thürflügeln, mit der Vollendung des inneren Tempelhauses (wieder durch Mesen gegeben) in seiner Arbeit in Vollkommenheit durch die Künstler ersten Ranges in zum 18. Mesori des Jahres 28 unter dem verstorihren Stunden dauerte es bis benen König Ptolemäus IX Euergetes II und seiner Gemahlin, der Regentin Cleopatra II, beträgt an Jahren 95, von der Ceremonie des ersten Hammerschlages bis zum Feste des feierlichen Einzuges, dem Feste des Ein weihens den Stammsitz durch Se. Majestät seinem göttlichen Herrn, dem Horus von Edfu, Gott Ahi dem Herrn des Himmels, der grofsen Texufeier, der nichts gleich kommt seit Erschaffung der Welt bis zum heutigen Morgen.",
+        "en": "With the completion of the hieroglyphic writing carved on the stone, the adornment of its wall with gold, the application of the colours, the completion of the carpentry of its doors, the making of its door frames of good bronze, with its door posts and metal locks, the laying of gold plates on its door leaves, and the completion of the inner temple house (again 'Mesen') in its work to perfection by artists of the first rank, up to the 18th of Mesori of year 28 under the late King Ptolemy IX Euergetes II and his wife, the regent Cleopatra II [OCR garbled here]: it comes to 95 years, from the ceremony of the first hammer-blow to the festival of the solemn entry, the festival of the consecration of the ancestral seat by His Majesty to his divine lord, Horus of Edfu, god Ahi, lord of heaven, the great Tekhu festival, equal to nothing since the creation of the world to this very morning."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 26,
+      "transliteration": null,
+      "translation": {
+        "de": "Angefüllt ist Edfu mit allen herrlichen Dingen, mit Millionen und Hunderttausenden an Gütern an diesem (Tage); ihre Gröfse unbegrenzt ist sie, die Rinder und das man ihre Zahl, Ochsen und Kälber sind da zur Feier an den Altären Geflügel, nicht kennt und fette Gänse werden gebracht zum Opferheerd.",
+        "en": "Edfu is filled with all splendid things, with millions and hundreds of thousands of goods on this (day); their abundance is without limit; cattle and fowl, their number is not known; oxen and calves are there for the feast at the altars, and fat geese are brought to the offering hearth. [OCR word order garbled; reconstructed]"
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 27,
+      "transliteration": null,
+      "translation": {
+        "de": "Vor dem angezündeten Weihrauch und dem Oel, brennend auf den Lampen, kann man nicht sehen die Decke im Innern des Tempels und es lockert sich sein Fufsboden von den Libationen des Mostes und Weines aus dem Lande Ba und der Stadt Smat.",
+        "en": "Before the kindled incense and the oil burning in the lamps one cannot see the ceiling inside the temple, and its floor is loosened by the libations of must and wine from the land of Ba and the town of Smat."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 28,
+      "transliteration": null,
+      "translation": {
+        "de": "Die Königlichen Grofsen stehen da in ihren Prachtgewändern, die Tempelräume, siehe, sie sind ausgerüstet mit ihrem Nothwendigen.",
+        "en": "The royal grandees stand there in their robes of state; the temple rooms, behold, are furnished with what they need."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 29,
+      "transliteration": null,
+      "translation": {
+        "de": "Die Bewohner von Dendera vereinigen sich mit denen von Edfu^ unter den Frauen herrscht Ausgelassenheit und unter den Männern Trunkenheit vom Weine, man ist gesalbt mit dem Tesepsöle und Blumenkränze sind an ihrem Halse.",
+        "en": "The people of Dendera join those of Edfu; among the women reigns abandon and among the men drunkenness from wine; they are anointed with tesep oil and garlands of flowers hang at their necks."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 30,
+      "transliteration": null,
+      "translation": {
+        "de": "Der Gott von Edfu, der in seiner heiligen Barke, „die Schönheiten-Tragende\" genannt, erscheint, er, dessen Scheibe leuchtend aufgeht im Osten, nimmt Besitz von seinem Adytum und seinem Sonnenbergsaale; seine Amphora in seinem Hause ist im Festschmuck, bleibend ist sein Thron, im Tragen Se. Majestät von diesem Tage an bis in Ewigkeit",
+        "en": "The god of Edfu, who appears in his sacred bark called 'the Bearer of Beauties', he whose disc rises shining in the east, takes possession of his adytum and his sun-mountain hall; his amphora in his house is in festive dress, his throne endures, bearing His Majesty from this day to eternity."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 31,
+      "transliteration": null,
+      "translation": {
+        "de": "eingemeisselt das Tempelist haus von Aussen (mit dem Namen) Sr. Majestät.",
+        "en": "[...] the temple house is carved on the outside (with the name) of His Majesty. [OCR garbled]"
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 32,
+      "transliteration": null,
+      "translation": {
+        "de": "Zeit, diese schöne, Jahr 3 0, Monat Payni, Tag 9, das Fest der Vereinigung des Mondgottes Osiris mit dem Sonnengotte Ra, welches das Sechstagefest ira Monat Payni (?), da legte man den Grund zu dem Chent- Saale, welcher im Innern die beiden Seitenkapellen, (es ist dies der erste grofse 18 säulige Saal cf. den Grundrifs in meinen „Tempelinschriften von Edfu\" und J. de Rouge „Textes geographiques\") und das Dach des Herrn des Himmels, es wurde vollendet im Jahre 46, im Monat Mesori, und zwar am 18. des Monats, welches sind 16 Jahre, 2 Monate und 10 Tage, von der Gründung des Sonnenbergsaales bis zu dem mit der Te^ufeier zusammenfallenden Einweihungsfeste des herrlichen Chentraumes.",
+        "en": "This beautiful time, year 30, month Payni, day 9, the festival of the union of the moon god Osiris with the sun god Ra, which is the six-day festival in the month Payni (?): the foundation was laid for the Chent hall, with the two side chapels within (this is the first great eighteen-columned hall) and the roof of the lord of heaven; it was completed in year 46, month Mesori, on the 18th of the month, which is 16 years, 2 months and 10 days from the foundation of the sun-mountain hall to the consecration festival of the splendid Chent room, coinciding with the Tekhu festival."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 33,
+      "transliteration": null,
+      "translation": {
+        "de": "Und die schöne Feier in diesem Hause, an welcher man einmeisselte den grofsen Namen Sr. Majestät an der Mauer, fiel in das Jahr 48.",
+        "en": "And the beautiful celebration in this house, at which the great name of His Majesty was carved on the wall, fell in year 48."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 34,
+      "transliteration": null,
+      "translation": {
+        "de": "Am Ende seiner Lebenszeit, im Jahre 54 dieses Königs, im Monat Payni, am 11. Tage, da legte man den Grund zu der Umfassungsmauer und dem Pylonenvorhof.",
+        "en": "At the end of his lifetime, in year 54 of this king, in the month Payni, on the 11th day, the foundation was laid for the enclosure wall and the pylon forecourt."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 35,
+      "transliteration": null,
+      "translation": {
+        "de": "Als man beschäftigt war mit der Gründung von ihnen auf allen Seiten, da starb der König und sein ältester Sohn folgte ihm auf seinem Thron,",
+        "en": "While they were busy founding them on all sides, the king died and his eldest son succeeded him on his throne;"
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 36,
+      "transliteration": null,
+      "translation": {
+        "de": "eingemeisselt ist auf seinen Namen die Aussenwand des vordersten Tempelsaales als König von Ober- und Unterägypten Ptolemäus X Soter II Philometor II (Nun ist ein Stück der Inschrift ausgebrochen, in dem offenbar die Rede gewesen sein mufs von Soter's Bruder Alexander I, denn der Text fährt fort:) officiell eingeschrieben ist sein Name an der Umfassungsmauer des Tempels als König Ptolemäus XI Alexander I.",
+        "en": "the outer wall of the front temple hall is carved in his name as King of Upper and Lower Egypt Ptolemy X Soter II Philometor II [editor: a piece of the inscription is broken away which must have spoken of Soter's brother Alexander I, for the text continues:] his name is officially inscribed on the enclosure wall of the temple as King Ptolemy XI Alexander I."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 37,
+      "transliteration": null,
+      "translation": {
+        "de": "Er floh nach Arabien und sein älterer Bruder übernahm Aegypten, zum zweiten Male wurde ihm dasDiadem Sonnenkönig.",
+        "en": "He fled to Arabia and his elder brother took over Egypt; for the second time the diadem of the sun-king was his."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 38,
+      "transliteration": null,
+      "translation": {
+        "de": "Dieses sind die Monumente als dieser verstorbenen Könige",
+        "en": "These are the monuments of these late kings."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 39,
+      "transliteration": null,
+      "translation": {
+        "de": "Eure göttlichen Seelen sind im Himmel bei dem Sonnengotte Ra, dauernd sind eure Leiber im Grabe, ihr schreitet daher auf dem Wege in dem breiten Saale der doppelten Gerechtigkeit, die Todtenrichter rechtfertigen euch beim Osiris, bleibend sind eure Bilder auf Erden und eure Erben sind auf ihrem Throne.",
+        "en": "Your divine souls are in heaven with the sun god Ra, your bodies endure in the tomb; you therefore walk the road in the broad hall of the double justice, the judges of the dead justify you before Osiris; your images remain on earth and your heirs are on their throne."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 40,
+      "transliteration": null,
+      "translation": {
+        "de": "Horus von Edfu, Gott Ahi der Herr des Himmels, der da strahlt am Horizonte, er schaut sein Haus,er ehrt seinen geliebten Sohn den König Ptolemäas X Soter II Philometor II, er befestigt ihn auf seinem Thron ewiglich.",
+        "en": "Horus of Edfu, god Ahi, lord of heaven, who shines on the horizon: he looks upon his house, he honours his beloved son King Ptolemy X Soter II Philometor II, he establishes him on his throne forever."
+      },
+      "source_detail": {
+        "source": "Dümichen 1870, ZÄS 8 p. 2-4",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    }
+  ]
+}

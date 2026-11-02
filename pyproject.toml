@@ -1,0 +1,63 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aegyptus"
+version = "0.1.0"
+description = "Open corpus of ancient Egyptian texts"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = [
+    "sqlalchemy>=2.0",
+    "alembic>=1.13",
+    "psycopg2-binary>=2.9",
+    "pydantic>=2.0",
+    "fastapi>=0.110",
+    "uvicorn>=0.27",
+    "httpx>=0.27",
+    "beautifulsoup4>=4.12",
+    "celery>=5.3",
+    "redis>=5.0",
+    "minio>=7.2",
+    "huggingface_hub>=0.21",
+    "click>=8.1",
+    "langdetect>=1.0",
+    "python-dotenv>=1.0",
+    "networkx>=3.6.1",
+    "python-louvain>=0.16",
+]
+
+[project.scripts]
+aegyptus = "cli:cli"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    "ruff>=0.3",
+    "mypy>=1.8",
+]
+ml = [
+    "torch>=2.0",
+    "transformers>=4.38",
+    "datasets>=2.18",
+]
+
+[tool.setuptools]
+py-modules = ["cli"]
+
+[tool.setuptools.packages.find]
+include = ["core*", "importers*", "crawler*", "processing*", "gap_tracker*", "ingest*", "api*", "dashboard*", "rosetta*"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 120
+
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

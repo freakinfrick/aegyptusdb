@@ -1,0 +1,100 @@
+{
+  "__doc__": "Single source of truth for the Aegyptus kit-of-parts. See web/kit/KIT.md for narrative. graph/kit.py and web/kit/index.js both load this.",
+  "version": "v4.0",
+  "packing_density": 0.28,
+
+  "hall_styles": {
+    "oracle":    { "tl": "\u2554", "tr": "\u2557", "bl": "\u255A", "br": "\u255D", "h": "\u2550", "v": "\u2551", "inner": "\u00B7" },
+    "utterance": { "tl": "\u250C", "tr": "\u2510", "bl": "\u2514", "br": "\u2518", "h": "\u2500", "v": "\u2502", "inner": "\u00B7" },
+    "body":      { "tl": "\u2552", "tr": "\u2555", "bl": "\u2558", "br": "\u255B", "h": "\u2550", "v": "\u2502", "inner": "." },
+    "dead":      { "tl": "\u2553", "tr": "\u2556", "bl": "\u2559", "br": "\u255C", "h": "\u2500", "v": "\u2551", "inner": "\u2591" },
+    "power":     { "tl": "\u2554", "tr": "\u2557", "bl": "\u255A", "br": "\u255D", "h": "\u2550", "v": "\u2551", "inner": "\u2592" },
+    "cosmos":    { "tl": "\u256D", "tr": "\u256E", "bl": "\u2570", "br": "\u256F", "h": "\u2500", "v": "\u2502", "inner": "*" },
+    "wisdom":    { "tl": "\u259B", "tr": "\u259C", "bl": "\u2599", "br": "\u259F", "h": "\u2500", "v": "\u2502", "inner": "\u00B7" }
+  },
+
+  "categories": ["STRUCTURE", "CIRCULATION", "STORAGE", "MONUMENTAL", "MARKER"],
+
+  "text_bearing_roles": [
+    "papyrus_tablet", "wall_inscription", "scroll_pedestal", "shelf_niche",
+    "rack_vertical", "false_door", "tomb_alcove", "ostrakon",
+    "doorway_lintel", "room_band",
+    "stele", "coffin", "sculpture", "vessel", "rock_cut"
+  ],
+
+  "parts": {
+    "wall_h":           { "cat": "STRUCTURE",   "char": "\u2550", "fallback": "\u2500", "w": 1, "h": 1, "walk": false, "attach": "shell" },
+    "wall_v":           { "cat": "STRUCTURE",   "char": "\u2551", "fallback": "\u2502", "w": 1, "h": 1, "walk": false, "attach": "shell" },
+    "pillar":           { "cat": "STRUCTURE",   "char": "\u2551", "w": 1, "h": 3, "walk": false, "attach": "floor", "footprint": 3 },
+    "pillar_capital":   { "cat": "STRUCTURE",   "char": "\u259B", "w": 1, "h": 1, "walk": false, "attach": "above_pillar" },
+    "plinth":           { "cat": "STRUCTURE",   "char": "\u25AC", "w": 1, "h": 1, "walk": false, "attach": "floor", "footprint": 1 },
+    "architrave":       { "cat": "STRUCTURE",   "char": "\u2550", "w": 6, "h": 1, "walk": false, "attach": "above_gateway", "footprint": 6 },
+    "ceiling_beam":     { "cat": "STRUCTURE",   "char": "\u2501", "w": 1, "h": 1, "walk": false, "attach": "overhead" },
+
+    "floor":            { "cat": "CIRCULATION", "char": "\u00B7", "w": 1, "h": 1, "walk": true,  "attach": "floor" },
+    "floor_dot":        { "cat": "CIRCULATION", "char": "\u00B7", "w": 1, "h": 1, "walk": true,  "attach": "floor" },
+    "walkway":          { "cat": "CIRCULATION", "char": "\u2592", "w": 1, "h": 1, "walk": true,  "attach": "floor" },
+    "gateway_open":     { "cat": "CIRCULATION", "char": " ",       "w": 1, "h": 1, "walk": true,  "attach": "shell" },
+    "gateway_arch":     { "cat": "CIRCULATION", "char": "\u2229", "w": 1, "h": 1, "walk": true,  "attach": "shell" },
+    "gateway_portal":   { "cat": "CIRCULATION", "char": "\u25A3", "w": 1, "h": 1, "walk": true,  "attach": "floor" },
+    "gateway_portal_frame": { "cat": "CIRCULATION", "char": "\u250C\u2500\u2510\u2502\u25A3\u2502\u2514\u2500\u2518", "w": 3, "h": 3, "walk": "center_only", "attach": "floor" },
+    "stair_up":         { "cat": "CIRCULATION", "char": "<", "w": 1, "h": 1, "walk": true,  "attach": "floor" },
+    "stair_down":       { "cat": "CIRCULATION", "char": ">", "w": 1, "h": 1, "walk": true,  "attach": "floor" },
+    "threshold":        { "cat": "CIRCULATION", "char": "\u2550", "w": 1, "h": 1, "walk": true,  "attach": "shell" },
+    "corridor_h":       { "cat": "CIRCULATION", "char": "\u2550", "w": 1, "h": 1, "walk": true,  "attach": "floor" },
+    "corridor_v":       { "cat": "CIRCULATION", "char": "\u2551", "w": 1, "h": 1, "walk": true,  "attach": "floor" },
+
+    "papyrus_tablet":   { "cat": "STORAGE", "char": "\u258C\u1F4DC\u2590", "w": 1, "h": 3, "walk": false, "attach": "wall", "footprint": 3, "text_types": ["papyrus"] },
+    "wall_inscription": { "cat": "STORAGE", "char": "\u2550", "w": 6, "h": 1, "walk": false, "attach": "wall", "footprint": 6, "text_types": ["Wand", "Raum"] },
+    "scroll_pedestal":  { "cat": "STORAGE", "char": "\u256D\u256E\u2551\u2551\u2594\u2594", "w": 2, "h": 2, "walk": false, "attach": "floor", "footprint": 2, "text_types": ["Schriftrolle"] },
+    "shelf_niche":      { "cat": "STORAGE", "char": "\u2502\u2588\u2502", "w": 1, "h": 2, "walk": false, "attach": "wall", "footprint": 2, "text_types": ["papyrus"] },
+    "rack_vertical":    { "cat": "STORAGE", "char": "\u2590\u258C", "w": 1, "h": 3, "walk": false, "attach": "wall", "footprint": 3, "text_types": ["Schriftrolle", "papyrus"] },
+    "false_door":       { "cat": "STORAGE", "char": "\u250C\u2500\u2510\u2502\u2502\u2514\u2500\u2518", "w": 2, "h": 3, "walk": false, "attach": "wall", "footprint": 6, "text_types": ["Schein\u00FCr", "Schein\u00fcr"] },
+    "tomb_alcove":      { "cat": "STORAGE", "char": "\u2554\u2550\u2557\u2551 \u2551\u255A\u2550\u255D", "w": 3, "h": 2, "walk": false, "attach": "wall_sunken", "footprint": 6, "text_types": ["Grab"] },
+    "ostrakon":         { "cat": "STORAGE", "char": "\u25AB", "w": 1, "h": 1, "walk": true, "attach": "floor", "footprint": 1, "text_types": ["Ostrakon"] },
+    "doorway_lintel":   { "cat": "STORAGE", "char": "\u1F413", "w": 1, "h": 1, "walk": false, "attach": "above_gateway", "footprint": 1, "text_types": ["T\u00FCr"] },
+    "room_band":        { "cat": "STORAGE", "char": "\u1F480", "w": 1, "h": 1, "walk": false, "attach": "wall_band", "footprint": 1, "text_types": ["Raum"] },
+
+    "stele":            { "cat": "MONUMENTAL", "char": "\u2571\u2572\u2502\u2502\u2514\u2500\u2518", "w": 1, "h": 3, "walk": false, "attach": "floor", "footprint": 3, "text_types": ["Stele"] },
+    "coffin":           { "cat": "MONUMENTAL", "char": "\u2593\u2593\u2593\u2593", "w": 3, "h": 2, "walk": false, "attach": "floor_center", "footprint": 6, "text_types": ["Sarg"] },
+    "sculpture":        { "cat": "MONUMENTAL", "char": "\u1F5FF", "w": 2, "h": 3, "walk": false, "attach": "floor", "footprint": 6, "text_types": ["Skulptur"] },
+    "vessel":           { "cat": "MONUMENTAL", "char": "\u23E3\u253B", "w": 1, "h": 2, "walk": false, "attach": "floor", "footprint": 2, "text_types": ["Gef\u00E4\u00DF"] },
+    "rock_cut":         { "cat": "MONUMENTAL", "char": "\u2592\u2593\u2591", "w": 3, "h": 3, "walk": false, "attach": "floor", "footprint": 9, "text_types": ["Fels"] },
+
+    "torch":            { "cat": "MARKER", "char": "\u2020", "w": 1, "h": 1, "walk": false, "attach": "wall", "sanctum_only": true },
+    "incense_brazier":  { "cat": "MARKER", "char": "\u16D6", "w": 1, "h": 1, "walk": false, "attach": "floor", "sanctum_only": true },
+    "floor_cartouche":  { "cat": "MARKER", "char": "\u22A1", "w": 1, "h": 1, "walk": true,  "attach": "floor" },
+    "scatter_glyph":    { "cat": "MARKER", "char": "\u1F4DC", "w": 1, "h": 1, "walk": true, "attach": "floor" },
+    "direction_sign":   { "cat": "MARKER", "char": "\u2192", "w": 1, "h": 1, "walk": false, "attach": "floor", "sanctum_only": true }
+  },
+
+  "text_type_to_part": {
+    "papyrus":     "papyrus_tablet",
+    "Wand":        "wall_inscription",
+    "Schriftrolle":"scroll_pedestal",
+    "Scheint\u00FCr":"false_door",
+    "Grab":        "tomb_alcove",
+    "Gef\u00E4\u00DF":"vessel",
+    "T\u00FCr":    "doorway_lintel",
+    "Raum":        "room_band",
+    "Fels":        "rock_cut",
+    "Ostrakon":    "ostrakon",
+    "Stele":       "stele",
+    "Architrav":   "architrave",
+    "Skulptur":    "sculpture",
+    "Pfeiler":     "pillar",
+    "Sarg":        "coffin"
+  },
+
+  "placement_order": [
+    "STRUCTURE:shell",
+    "MONUMENTAL:floor_center",
+    "STRUCTURE:interior",
+    "STORAGE:wall",
+    "MONUMENTAL:floor",
+    "STORAGE:floor",
+    "STORAGE:floor_scatter",
+    "CIRCULATION:gateways",
+    "MARKER:sanctum_only"
+  ]
+}

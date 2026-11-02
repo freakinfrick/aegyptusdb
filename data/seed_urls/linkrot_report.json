@@ -1,0 +1,4517 @@
+{
+  "checked_at": "2026-04-02T00:21:32Z",
+  "sources": [
+    {
+      "source_id": "eef_source_texts",
+      "name": "EEF Digitized Source Texts",
+      "entry_urls": [
+        "https://www.egyptologyforum.org/EEFSourcetexts.html"
+      ],
+      "links": [
+        {
+          "url": "http://www.egyptologyforum.org/EEFNEWS.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/EEFNEWS.html",
+          "error": null
+        },
+        {
+          "url": "http://oi.uchicago.edu/pdf/oip132.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924027761810",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924027761810",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924027761828",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924027761828",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924027761836",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924027761836",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924027761844",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924027761844",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/recordsofpastbei05sociiala",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/recordsofpastbei05sociiala",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924027761869",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924027761869",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924027761877",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924027761877",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/recordsofpastbei08sociiala",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/recordsofpastbei08sociiala",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924027761893",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924027761893",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924103070243",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924103070243",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924027761901",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924027761901",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924027761919",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924027761919",
+          "error": null
+        },
+        {
+          "url": "http://www.brainfly.net/html/rop.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://etana.org/sites/default/files/coretexts/14896.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://etana.org/sites/default/files/coretexts/14897.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://etana.org/sites/default/files/coretexts/14898.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://etana.org/sites/default/files/coretexts/14486.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://etana.org/sites/default/files/coretexts/14899.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/thesaurusinscrip12brug",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/thesaurusinscrip12brug",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/thesaurusinscrip34brug",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/thesaurusinscrip34brug",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/thesaurusinscrip56brug",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/thesaurusinscrip56brug",
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/tx52e",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.thotweb.com/editions/textesppi.php",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://oilib.uchicago.edu/books/erichsen_lesestucke_ii_1939.pdf",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://books.google.de/books?id=tOnCEC8vhS4C",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://books.google.de/books?id=tOnCEC8vhS4C&hl=de",
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/tx534",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.gutenberg.org/cache/epub/7386/pg7386.epub",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.gutenberg.org/cache/epub/7386/pg7386.epub",
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/tx53h",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.gutenberg.org/cache/epub/7413/pg7413.epub",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.gutenberg.org/cache/epub/7413/pg7413.epub",
+          "error": null
+        },
+        {
+          "url": "http://www.thotweb.com/editions/les.php",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/thebanostracaedi00royauoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/thebanostracaedi00royauoft",
+          "error": null
+        },
+        {
+          "url": "http://etana.org/sites/default/files/coretexts/15241.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://archive.org/details/egyptianhieratic00garduoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://edoc3.bibliothek.uni-halle.de/lepsius/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://edoc3.bibliothek.uni-halle.de/lepsius/",
+          "error": null
+        },
+        {
+          "url": "http://books.google.de/books?id=bqG3NtbDdzQC",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://books.google.de/books?id=bqG3NtbDdzQC&hl=de",
+          "error": null
+        },
+        {
+          "url": "http://books.google.de/books?id=uoAefzqPGAUC",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://books.google.de/books?id=uoAefzqPGAUC&hl=de",
+          "error": null
+        },
+        {
+          "url": "http://books.google.de/books?id=bdINI0bdBgkC",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://books.google.de/books?id=bdINI0bdBgkC&hl=de",
+          "error": null
+        },
+        {
+          "url": "http://books.google.de/books?id=eG9Kji5XaBgC",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://books.google.de/books?id=eG9Kji5XaBgC&hl=de",
+          "error": null
+        },
+        {
+          "url": "http://books.google.de/books?id=08c6NfxsHmkC",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://books.google.de/books?id=08c6NfxsHmkC&hl=de",
+          "error": null
+        },
+        {
+          "url": "http://gallica.bnf.fr/ark:/12148/bpt6k36147z.r=.langFR",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://gallica.bnf.fr/ark:/12148/bpt6k36147z.r=.langFR",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924091207393",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924091207393",
+          "error": null
+        },
+        {
+          "url": "http://bsb-mdz12-spiegel.bsb.lrz.de/~db/0006/bsb00068088/images/",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno 113] No route to host"
+        },
+        {
+          "url": "http://archive.org/details/sammelbuchgriech02wissuoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://archive.org/details/griechischeurkun00preiuoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924088047430",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924088047430",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924088047448",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924088047448",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924088047455",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924088047455",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924088047463",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924088047463",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924088047471",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924088047471",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/cu31924088047489",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/cu31924088047489",
+          "error": null
+        },
+        {
+          "url": "http://digi.ub.uni-heidelberg.de/diglit/schenkel1965a",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digi.ub.uni-heidelberg.de/diglit/schenkel1965a",
+          "error": null
+        },
+        {
+          "url": "http://bsb-mdz12-spiegel.bsb.lrz.de/~db/0006/bsb00068075/images/",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno 113] No route to host"
+        },
+        {
+          "url": "http://bsb-mdz12-spiegel.bsb.lrz.de/~db/0006/bsb00068079/images/",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno 113] No route to host"
+        },
+        {
+          "url": "http://www.egyptologyforum.org/EEFUrk.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/EEFUrk.html",
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/27x9ztv",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/hieroglyphicpt100brituoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/hieroglyphicpt100brituoft",
+          "error": null
+        },
+        {
+          "url": "http://bsb-mdz12-spiegel.bsb.lrz.de/~db/0007/bsb00070497/images/",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno 113] No route to host"
+        },
+        {
+          "url": "http://www.archive.org/details/hieroglyphictext01brit",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/hieroglyphictext01brit",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/hieroglyphictext02brituoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/hieroglyphictext02brituoft",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/hieroglyphictext04brit",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/hieroglyphictext04brit",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/hieroglyphictext04brituoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/hieroglyphictext04brituoft",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/hieroglyphictext05brituoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/hieroglyphictext05brituoft",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/hieroglyphictext06brit",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/hieroglyphictext06brit",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/hieroglyphictext06brituoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/hieroglyphictext06brituoft",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/literatureofanci00budgrich",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/literatureofanci00budgrich",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/egyptianreadingb00budguoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/egyptianreadingb00budguoft",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/egyptianreadingb00budgiala",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/egyptianreadingb00budgiala",
+          "error": null
+        },
+        {
+          "url": "http://www.gutenberg.org/etext/9411",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.gutenberg.org/ebooks/9411",
+          "error": null
+        },
+        {
+          "url": "http://www.egyptologyforum.org",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/",
+          "error": null
+        }
+      ],
+      "summary": {
+        "total": 71,
+        "alive": 55,
+        "dead": 9,
+        "blocked": 7,
+        "error": 0
+      }
+    },
+    {
+      "source_id": "eef_guide",
+      "name": "EEF Guide to Internet Resources",
+      "entry_urls": [
+        "https://www.egyptologyforum.org/EEFtexts.html"
+      ],
+      "links": [
+        {
+          "url": "http://www.egyptologyforum.org/EEFNEWS.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/EEFNEWS.html",
+          "error": null
+        },
+        {
+          "url": "http://www.egyptologyforum.org/EEFAbbr.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/EEFAbbr.html",
+          "error": null
+        },
+        {
+          "url": "http://www.egyptologyforum.org/EEFrefs.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/EEFrefs.html",
+          "error": null
+        },
+        {
+          "url": "https://www.egyptologyforum.org/EEFtexts.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://xoomer.virgilio.it/francescoraf/hesyra/Peribsen-seals.jpg",
+          "status": "error",
+          "status_code": 410,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://xoomer.virgilio.it/francescoraf/hesyra/pribsn.htm",
+          "status": "error",
+          "status_code": 410,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egyptologyforum.org/bbs/Peribsen_Seal.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/bbs/Peribsen_Seal.pdf",
+          "error": null
+        },
+        {
+          "url": "http://edoc3.bibliothek.uni-halle.de/lepsius/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://edoc3.bibliothek.uni-halle.de/lepsius/",
+          "error": null
+        },
+        {
+          "url": "http://www.egyptologyforum.org/EEFUrk.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/EEFUrk.html",
+          "error": null
+        },
+        {
+          "url": "http://www.egyptologyforum.org/EEFSourcetexts.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/EEFSourcetexts.html",
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-93267",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://snipurl.com/8ocx",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.pyramidtextsonline.com/AnteeastGH.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://pyramidtextsonline.com/anteeastgableh.html",
+          "error": null
+        },
+        {
+          "url": "http://www.pyramidtextsonline.com/AnteeastG.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://pyramidtextsonline.com/anteeastgable.html",
+          "error": null
+        },
+        {
+          "url": "http://perso.club-internet.fr/kemit/ounas/textes_des_pyramides.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno 111] Connection refused"
+        },
+        {
+          "url": "http://www.sacred-texts.com/egy/pyt/pyt13.htm",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.meritneith.de/lyrik-unas.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-106206",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://oilib.uchicago.edu/books/speleers_textes_pyramides_1923.pdf",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.egiptologia.org/pdfs/LosTextosdelasPiramides.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/archiviostoricos20soci",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/archiviostoricos20soci",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/abhandlungenderk1902kn",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/abhandlungenderk1902kn",
+          "error": null
+        },
+        {
+          "url": "http://xoomer.virgilio.it/francescoraf/hesyra/palermo.jpg",
+          "status": "error",
+          "status_code": 410,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://books.google.com/books?id=qeApebusL_0C&pg=PA65",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://books.google.com/books?id=qeApebusL_0C&pg=PA65&hl=en",
+          "error": null
+        },
+        {
+          "url": "http://www.mom.fr/digimom/Notice.php?id=1016&url=%26lieu%3DEgypte%26fromparcours%3D1",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptomania.com/lista/palermocairo3.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptomania.com/lista/palermocairo2.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptomania.com/lista/palermocairo4.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://petriecat.museums.ucl.ac.uk/dispatcher.aspx?action=search&database=ChoiceUCLPC&search=accession_number=%20%27UC15508%27&limit=10&SRT0=&TYP0=&SEQ0=&position=1",
+          "status": "error",
+          "status_code": 500,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.digitalegypt.ucl.ac.uk/ideology/palermostone.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ucl.ac.uk/museums-static/digitalegypt//ideology/palermostone.html",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/ancientegy1914to17brituoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/ancientegy1914to17brituoft",
+          "error": null
+        },
+        {
+          "url": "http://www.egiptomania.com/lista/palermocairo1.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.mfa.org/collections/object/decree-of-neferirkare-130692",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://gallica.bnf.fr/ark:/12148/bpt6k55527m",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://gallica.bnf.fr/ark:/12148/bpt6k55527m",
+          "error": null
+        },
+        {
+          "url": "http://gallica.bnf.fr/ark:/12148/bpt6k932917",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://gallica.bnf.fr/ark:/12148/bpt6k932917",
+          "error": null
+        },
+        {
+          "url": "http://www.gizapyramids.org/code/emuseum.asp?newpage=gizamastabas7",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=10290&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=10292&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=10294&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://cnum.cnam.fr/CGI/sresrech.cgi?4KY28.16/0419",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://cnum.cnam.fr/pgi/sresrech.php?4KY28.16/0419/",
+          "error": null
+        },
+        {
+          "url": "http://fr.scribd.com/doc/40301053/PDF-Les-Textes-Des-Pyramides",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://fr.scribd.com/doc/40301053/PDF-Les-Textes-Des-Pyramides",
+          "error": null
+        },
+        {
+          "url": "http://www.digitalegypt.ucl.ac.uk/literature/religious/pyramid.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ucl.ac.uk/museums-static/digitalegypt//literature/religious/pyramid.html",
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/fx2z",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/fx32",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sacred-texts.com/egy/pyt/index.htm",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sbl-site.org/publications/Books_ICIbooks.aspx",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egyptologyforum.org/bbs/Shmakov_Critical_analysis_PTs_vs1.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/bbs/Shmakov_Critical_analysis_PTs_vs1.pdf",
+          "error": null
+        },
+        {
+          "url": "http://www.pyramidtextsonline.com/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.pyramidtextsonline.com/",
+          "error": null
+        },
+        {
+          "url": "http://www.maat.sofiatopia.org/wenis.htm\"\"",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/OTTree?f=0&l=0&oc=3914&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.ifao.egnet.net/bifao/100/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ifao.egnet.net/bifao/100/",
+          "error": null
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/OTTree?f=0&l=0&oc=6060&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.touregypt.net/featurestories/mehut.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.touregypt.net'. (_ssl.c:1007)"
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/CadresFenetre?O=NUMM-93291",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://digi.ub.uni-heidelberg.de/diglit/musee_egyptien1890_1900",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digi.ub.uni-heidelberg.de/diglit/musee_egyptien1890_1900",
+          "error": null
+        },
+        {
+          "url": "http://www.mom.fr/digimom/Notice.php?id=1015",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://scholarship.rice.edu/handle/1911/9294",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://repository.rice.edu",
+          "error": null
+        },
+        {
+          "url": "http://rostau.org.uk/weni.ael/index.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/weni.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www1.hollins.edu/faculty/saloweyca/CLAS260/weni.html",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://members.tripod.com/~ib205/weni.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://ib205.tripod.com/weni.html",
+          "error": null
+        },
+        {
+          "url": "http://www.umich.edu/~kelseydb/Publications/spring2000/abydos.html",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.umich.edu/~kelseydb/Publications/fall2001/abydos.html",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/harkhuf.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://members.tripod.com/~ib205/pepi_2.html",
+          "status": "error",
+          "status_code": 502,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.bbc.co.uk/history/ancient/egyptians/human_gallery_1.shtml",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=1998&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://snipurl.com/adzs",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.maat.sofiatopia.org/ptahhotep.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.astrodoc.net/andere/kagemni/kagemni.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=3777&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.egiptomania.com/literatura/kagemni.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/kagemni.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://gallica.bnf.fr/Search?ArianeWireIndex=index&p=1&lang=FR&q=Ptahhotep",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://gallica.bnf.fr/accueil/fr/html/accueil-fr?ArianeWireIndex=index&p=1&lang=FR&q=Ptahhotep",
+          "error": null
+        },
+        {
+          "url": "http://www.astrodoc.net/andere/Ptahhotep/ptahhotep_BM10371+10435.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.maat.sofiatopia.org/zaba01.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://maat.sofiatopia.org/ptahhotep_maxims.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.digitalegypt.ucl.ac.uk/literature/ptahhotep.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ucl.ac.uk/museums-static/digitalegypt//literature/ptahhotep.html",
+          "error": null
+        },
+        {
+          "url": "http://www.humanistictexts.org/ptahhotep.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.astrodoc.net/andere/Ptahhotep/ptahhotep.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.meritneith.de/lyrik-ptahhotep.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sofiatopia.org/maat/merikare.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.meritneith.de/lyrik-merikare.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "Server disconnected without sending a response."
+        },
+        {
+          "url": "http://www.egiptomania.com/literatura/merikara.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/merikare_papyrus.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=2525&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=2527&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=2529&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&idNotice=3416",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://collections.louvre.fr/",
+          "error": null
+        },
+        {
+          "url": "http://www.photo.rmn.fr/LowRes2/TR1/6R9JPD/92-002385.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://cartelfr.louvre.fr/pub/fr/image/21693_e0021526.001.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://upload.wikimedia.org/wikipedia/commons/2/21/Louvre_stele_chef_artisans.JPG",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Louvre_stele_chef_artisans.JPG",
+          "error": null
+        },
+        {
+          "url": "http://cartelfr.louvre.fr/pub/fr/image/32607_e0021526.002.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://images.nypl.org/?id=1534324&t=w",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://images.nypl.org/?id=1534324&t=w",
+          "error": null
+        },
+        {
+          "url": "http://www.iut.univ-paris8.fr/~rosmord/hieroglyphes/C14.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.iut.univ-paris8.fr/~rosmord/hieroglyphes/C14.gif",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://gallica.bnf.fr/ark:/12148/bpt6k55522w",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://gallica.bnf.fr/ark:/12148/bpt6k55522w",
+          "error": null
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0150.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/irtisen.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://rostau.org.uk/AEgyptian-L/archives/index.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://vincent.euverte.free.fr/Rosette/Rosette_700.php?Lang=F&Style=_dark&Page=1",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.iut.univ-paris8.fr/~rosmord/hieroglyphes/C14tra.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.uned.es/geo-1-historia-antigua-universal/EGIPTO%20PAPIROS/TEXTOS%20TRADUCIDOS/traduccion%20de%20la%20estela%20%20c14%20%20del%20Lovre.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.uned.es/universidad/inicio/404.html",
+          "error": null
+        },
+        {
+          "url": "http://www.cs.st-andrews.ac.uk/~mjn/egyptian/texts/corpus/pdf/Hammamat110.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.st-andrews.ac.uk/computer-science/",
+          "error": null
+        },
+        {
+          "url": "http://www.cs.st-andrews.ac.uk/~mjn/egyptian/texts/corpus/pdf/Hammamat192.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.st-andrews.ac.uk/computer-science/",
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-55523",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.ifao.egnet.net/bifao/17/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ifao.egnet.net/bifao/17/",
+          "error": null
+        },
+        {
+          "url": "http://www.cs.st-andrews.ac.uk/~mjn/egyptian/texts/corpus/pdf/Hammamat113.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.st-andrews.ac.uk/computer-science/",
+          "error": null
+        },
+        {
+          "url": "http://www.cs.st-andrews.ac.uk/~mjn/egyptian/texts/corpus/pdf/Hammamat191.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.st-andrews.ac.uk/computer-science/",
+          "error": null
+        },
+        {
+          "url": "http://staff-www.uni-marburg.de/~aegypt/chrest07.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://etana.org/sites/default/files/coretexts/15142.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/mentuhotep_stela.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/mentuhotep.JPG",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://data.fitzmuseum.cam.ac.uk/id/object/52242",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/b0v6",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://2terres.hautesavoie.net/negypte/texte/nomartx.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.mom.fr/digimom/Notice.php?id=1054&limit=0",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0195.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/khnumhotep.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.cs.st-andrews.ac.uk/~mjn/egyptian/texts/corpus/pdf/KhnumhotepBeniHasan.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.st-andrews.ac.uk/computer-science/",
+          "error": null
+        },
+        {
+          "url": "http://www.fltr.ucl.ac.be/FLTR/GLOR/EPO/Egypte/TXT/Berlin14753.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.fltr.ucl.ac.be/FLTR/GLOR/EPO/Egypte/TXT/Berlin1157.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.sothis-egypte.com/textes/semna1/semna1.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.johnnyappleseedfest.net/johnnys-story",
+          "error": null
+        },
+        {
+          "url": "http://www.sothis-egypte.com/textes/semna2/semna2.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.johnnyappleseedfest.net/johnnys-story",
+          "error": null
+        },
+        {
+          "url": "http://aaew.bbaw.de/tla/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://aaew.bbaw.de/tla/",
+          "error": null
+        },
+        {
+          "url": "http://etana.org/sites/default/files/coretexts/15146.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://etana.org/sites/default/files/coretexts/15145.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.digitalegypt.ucl.ac.uk/lahun/kinghymns.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ucl.ac.uk/museums-static/digitalegypt//lahun/kinghymns.html",
+          "error": null
+        },
+        {
+          "url": "http://www.fltr.ucl.ac.be/FLTR/GLOR/epo/egypte/TXT/Kahun.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.segweb.ch/fichpdf/8Pata.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.liv.ac.uk/sace/research/publications/lahun2.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.liverpool.ac.uk/archaeology-classics-and-egyptology/",
+          "error": null
+        },
+        {
+          "url": "http://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/ikhernofret.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/ikhernofret.html",
+          "error": null
+        },
+        {
+          "url": "http://www.cs.st-andrews.ac.uk/~mjn/egyptian/texts/corpus/pdf/IkhernofretStela.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.st-andrews.ac.uk/computer-science/",
+          "error": null
+        },
+        {
+          "url": "http://www.sothis-egypte.com/textes/ikhernofret/ikhernofret.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.johnnyappleseedfest.net/johnnys-story",
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/ikhernofret.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://users.skynet.be/egypt/images/13318.jpg",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://users.skynet.be/egypt/images/13334.jpg",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/thuthotep.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptomania.com/literatura/dyehutyhotep.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://weekly.ahram.org.eg/2004/702/he1.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.dayralbarsha.com/",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://emu.man.ac.uk/mmcustom/Display.php?irn=107040&QueryPage=/mmcustom/narratives/index.php",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/pics/sebek-khu.gif",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/djaa.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/stelaofsebekkhue00peetuoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/stelaofsebekkhue00peetuoft",
+          "error": null
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?tc=8432",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.cs.st-andrews.ac.uk/~mjn/egyptian/texts/corpus/pdf/Shipwrecked.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.st-andrews.ac.uk/computer-science/",
+          "error": null
+        },
+        {
+          "url": "http://www.invisiblebooks.com/isle_of_fire.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.invisiblebooks.com",
+          "error": null
+        },
+        {
+          "url": "http://www.sothis-egypte.com/textes/naufrage/naufrage.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.johnnyappleseedfest.net/johnnys-story",
+          "error": null
+        },
+        {
+          "url": "http://www.gutenberg.org/ebooks/7386",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.gutenberg.org/ebooks/7386",
+          "error": null
+        },
+        {
+          "url": "http://archive.org/details/egyptiantalestr00elligoog",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.fordham.edu/halsall/ancient/2200shipwreck.asp",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://sourcebooks.fordham.edu/ancient/2200shipwreck.asp",
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/the_shipwrecked_sailor.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-36147",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=725&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://menadoc.bibliothek.uni-halle.de/ssg/content/titleinfo/243479",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.menalib.de/digitale-ressourcen/menadoc-suche/",
+          "error": null
+        },
+        {
+          "url": "http://www.rostau.org.uk/AEgyptian-L/reference/GrammarRefDb/ShS.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://eprints.ouls.ox.ac.uk/archive/00000895/",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/timelines/topics/kahunpapyrus.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.digitalegypt.ucl.ac.uk/med/birthpapyrus.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ucl.ac.uk/museums-static/digitalegypt//med/birthpapyrus.html",
+          "error": null
+        },
+        {
+          "url": "http://bibliothek.bbaw.de/bibliothek/digital/struktur/07-abh/1896/jpg-0600/00000251.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.bbaw.de/bibliothek/digital/struktur/07-abh/1896/jpg-0600/00000328.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://jennycarrington.tripod.com/ManBa/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://jennycarrington.tripod.com/ManBa/",
+          "error": null
+        },
+        {
+          "url": "http://www.sofiatopia.org/maat/faulkner.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.let.rug.nl/~markjan/egyptian/texts/textpdf/Dispute.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/man_tired_of_life.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/bifao/45/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ifao.egnet.net/bifao/45/",
+          "error": null
+        },
+        {
+          "url": "http://www.segweb.ch/fichpdf/Renau.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.uni-essen.de/Ev-Theologie/courses/course-stuff/egypt-lebensmued.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptomania.com/literatura/dialogo_desesperado_alma.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sofiatopia.org/maat/ba.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://rostau.org.uk/ep/index.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.astrodoc.net/andere/Bauer/Bauer.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=2005&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=2009&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://aaew2.bbaw.de/tla/servlet/GetTextDetails?f=0&l=0&tc=2003&db=0",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.gizapyramids.org/pdf%20library/festschrift_simpson/17_fecht.pdf",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://wwwuser.gwdg.de/~lingaeg/lingaeg08.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://wwwuser.gwdguser.de/~lingaeg/lingaeg08.htm",
+          "error": null
+        },
+        {
+          "url": "http://www.kunstbuecher-online.de/controller?cmd=detail&titelnummer=23084&verlag=5",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.hirmerverlag.de/?cmd=detail&titelnummer=23084&verlag=5",
+          "error": null
+        },
+        {
+          "url": "http://www.insecula.com/oeuvre/photo_ME0000038501.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.insecula.com/oeuvre/photo_ME0000038477.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-55542",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.egiptomania.com/literatura/amenyseneb.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.rostau.org.uk/WESTCAR/",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.iut.univ-paris8.fr/~rosmord/hieroglyphes/Westcar/html/westcar1.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.iut.univ-paris8.fr/~rosmord/hieroglyphes/Westcar/westcar.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.cs.st-andrews.ac.uk/~mjn/egyptian/texts/corpus/pdf/Westcar.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.st-andrews.ac.uk/computer-science/",
+          "error": null
+        },
+        {
+          "url": "http://www.uwm.edu/Course/egypt/274RH/Texts/Tales%20of%20Wonder.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ancient-egypt.org/literature/stories/papyrus_westcar/index.html",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/westcar_papyrus.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://rostau.org.uk/AEgyptian-L/reference/GrammarRefDb/Westcar.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://2terres.hautesavoie.net/livreseg/maspcont/textes/conte006.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://archive.org/details/diesprachedespap00ermauoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.uni-hamburg.de/Wiss/FB/09/ArchaeoI/Aegypto/sak/sak25.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.touregypt.net/inscriptionofkamose.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.touregypt.net'. (_ssl.c:1007)"
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/fotos/L1010332.JPG",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.iut.univ-paris8.fr/~rosmord/hieroglyphes/kamose/kamose1.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.iut.univ-paris8.fr/~rosmord/hieroglyphes/kamose/kamose.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.u.arizona.edu/~afutrell/w%20civ%2002/kamose.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptologia.net/isis/ansan-01.html",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://members.tripod.com/~ib205/ahmose_ebana.html",
+          "status": "error",
+          "status_code": 502,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://perso.wanadoo.fr/thotweb/encyclopedie/ahmesabana.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.egypteeternelle.net/centredoc2/sources2/A007.xml",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/8def",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.tourism.egnet.net/culture/images/12g118.jpg",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?fic=Bifao076_art_04.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?fic=Bifao077_art_08.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?fic=Bifao079_art_21.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.chs.harvard.edu/_/File/_/women_property_bryan.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ub.uni-leipzig.de/Wir_ueber_uns/sosa/scholl_4.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.medizinische-papyri.de/Papyrus_Ebers/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://www.medizinische-papyri.de/PapyrusEbers/",
+          "error": null
+        },
+        {
+          "url": "http://www.medizinische-papyri.de/html/fotogalerie.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://digi.ub.uni-heidelberg.de/diglit/ebers1875bd1/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digi.ub.uni-heidelberg.de/diglit/ebers1875bd1/",
+          "error": null
+        },
+        {
+          "url": "http://digi.ub.uni-heidelberg.de/diglit/ebers1875bd2/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digi.ub.uni-heidelberg.de/diglit/ebers1875bd2/",
+          "error": null
+        },
+        {
+          "url": "http://www.hieroglyphen2.de/Wreszinski3/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.hieroglyphen2.de/Wreszinski3/html/ubersicht.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/timelines/topics/eberspapyrus.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.astrodoc.net/andere/Ebers/ebers.htm",
+          "status": "alive",
+          "status_code": 300,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.astrodoc.net/andere/Ebers/herz.htm",
+          "status": "alive",
+          "status_code": 300,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://digi.ub.uni-heidelberg.de/diglit/joachim1890/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digi.ub.uni-heidelberg.de/diglit/joachim1890/",
+          "error": null
+        },
+        {
+          "url": "http://books.google.com/books?id=xbJkdd0RZeAC",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://books.google.com/books?id=xbJkdd0RZeAC&hl=en",
+          "error": null
+        },
+        {
+          "url": "http://medizinische-papyri.de/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://medizinische-papyri.de/html/-_papyrus_louvre__neu_.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.louvre.fr/media/repository/ressources/sources/pdf/src_document_52726_v2_m56577569831176227.pdf",
+          "status": "error",
+          "status_code": 500,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://papyri-leipzig.dl.uni-leipzig.de/receive/UBLPapyri_fragment_00000510?XSL.Style=detail",
+          "status": "error",
+          "status_code": 500,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ub.uni-heidelberg.de/helios/fachinfo/www/aegypt/digilit/papyrus_ebers.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://diglit.ub.uni-heidelberg.de/diglit/ebers1875bd1",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digi.ub.uni-heidelberg.de/diglit/ebers1875bd1",
+          "error": null
+        },
+        {
+          "url": "http://gdz.sub.uni-goettingen.de/dms/load/img/?PPN=PPN605421021",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://gdz.sub.uni-goettingen.de/id/PPN605421021",
+          "error": null
+        },
+        {
+          "url": "http://diglit.ub.uni-heidelberg.de/diglit/ebers1875bd2",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digi.ub.uni-heidelberg.de/diglit/ebers1875bd2",
+          "error": null
+        },
+        {
+          "url": "http://diglit.ub.uni-heidelberg.de/diglit/ebers1889",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digi.ub.uni-heidelberg.de/diglit/ebers1889",
+          "error": null
+        },
+        {
+          "url": "http://diglit.ub.uni-heidelberg.de/diglit/ebers1889a",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digi.ub.uni-heidelberg.de/diglit/ebers1889a",
+          "error": null
+        },
+        {
+          "url": "http://ia350627.us.archive.org/2/items/papyrusebersdie00ebergoog/papyrusebersdie00ebergoog.pdf",
+          "status": "error",
+          "status_code": 500,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://ia341205.us.archive.org/2/items/diekrpertheilei00ebergoog/diekrpertheilei00ebergoog.pdf",
+          "status": "error",
+          "status_code": 500,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://books.google.com/books?id=xKKPUpDOTKAC",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://books.google.com/books?id=xKKPUpDOTKAC&hl=en",
+          "error": null
+        },
+        {
+          "url": "http://www.thotweb.com/encyclopedie/pdf/urk4_79-81_touri.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egypteeternelle.net/centredoc2/sources2/A004/A004_01_01.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egypteeternelle.net/centredoc2/sources2/A004/A004_01_02.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.let.rug.nl/~markjan/egyptian/texts/textpdf/CoronationTuthmosisI.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egypteeternelle.net/centredoc2/sources2/A004/A004_07_01.xml",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.mom.fr/bibliotheque/bibnum/Notice.php?id=1079&url=%26titre%3Dabydos",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.maat-ka-ra.de/pictures/personen/djehuti/stele_northampton.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.maat-ka-ra.de/pictures/personen/djehuti/stele_northampton.jpg",
+          "error": null
+        },
+        {
+          "url": "http://www.excavacionegipto.com/visita_virtual/visita2002.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.allsky.de/de/allsky/d_306.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno 113] No route to host"
+        },
+        {
+          "url": "http://www.maat-ka-ra.de/pictures/bauwerke/kar_temp/karn_ob3.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.maat-ka-ra.de/pictures/bauwerke/kar_temp/karn_ob3.jpg",
+          "error": null
+        },
+        {
+          "url": "http://www.rostau.clara.co.uk/Hatshepsut/",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://members.tripod.com/obeliscos_egipcios/kahatn_en.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://members.tripod.com/obeliscos_egipcios/kahatn_en.htm",
+          "error": null
+        },
+        {
+          "url": "http://members.tripod.com/obeliscos_egipcios/kahatn.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://members.tripod.com/obeliscos_egipcios/kahatn.htm",
+          "error": null
+        },
+        {
+          "url": "http://2terres.hautesavoie.net/hegypte/texte/hatchetx.html",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.maat-ka-ra.de/german/bauwerke/kar_temp/hat_obl.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.maat-ka-ra.de/german/bauwerke/kar_temp/hat_obl.htm",
+          "error": null
+        },
+        {
+          "url": "http://www.mfa.org/giza/pdf%20files/bmfa40_1948_42to49.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.maat-ka-ra.de/english/bauwerke/red_chap/sw/block_302.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.maat-ka-ra.de/english/bauwerke/red_chap/sw/block_302.htm",
+          "error": null
+        },
+        {
+          "url": "http://www.maat-ka-ra.de/german/bauwerke/red_chap/sw/block_302.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.maat-ka-ra.de/german/bauwerke/red_chap/sw/block_302.htm",
+          "error": null
+        },
+        {
+          "url": "http://www.maat-ka-ra.de/english/bauwerke/kar_temp/hat_obl.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.maat-ka-ra.de/english/bauwerke/kar_temp/hat_obl.htm",
+          "error": null
+        },
+        {
+          "url": "http://www.maat-ka-ra.de/english/bauwerke/djeser/dj_portico_2_hall_birth.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.maat-ka-ra.de/english/bauwerke/djeser/dj_portico_2_hall_birth.htm",
+          "error": null
+        },
+        {
+          "url": "http://www.maat-ka-ra.de/german/bauwerke/djeser/dj_portico_2_hall_birth.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.maat-ka-ra.de/german/bauwerke/djeser/dj_portico_2_hall_birth.htm",
+          "error": null
+        },
+        {
+          "url": "http://www.bubastis.be/histoire/pharaons/naiss.html",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://snipurl.com/c3wq",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://archive.org/details/urkundendesaegyp2021steiuoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/c3wy",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.thotweb.com/encyclopedie/pdf/urk4_383-391_speos.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ancientneareast.net/texts/egyptian/speos_artemidos.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.thotweb.com/encyclopedie/speos.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.dabar.org/Egypt/Exodus/T3-STELA.htm",
+          "status": "error",
+          "status_code": 405,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egypteeternelle.net/centredoc2/sources2/A005.xml",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.mom.fr/bibliotheque/bibnum/Notice.php?id=1003&url=%26auteur%3Dmariette",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.photo.rmn.fr/LowRes2/TR1/WHJ2TE/00-008125.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.photo.rmn.fr/LowRes2/TR1/13NWFJ/00-008121.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.photo.rmn.fr/LowRes2/TR1/ITAD3S/00-008123.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.photo.rmn.fr/cf/htm/home.aspx",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://photo.grandpalaisrmn.fr/",
+          "error": null
+        },
+        {
+          "url": "http://www.egypt.edu/feuilleton/prisse/prisseh03bz.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egypt.edu/feuilleton/prisse/prisseh03bz.htm",
+          "error": null
+        },
+        {
+          "url": "http://bibliothek.bbaw.de/bibliothek-digital/digitalequellen/schriften/anzeige?band=07-abh/1852&seite:int=00000854",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://bibliothek.bbaw.de/bibliothek-digital/digitalequellen/schriften/anzeige/index_html?band=07-abh/1852&seite:int=884",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://bibliothek.bbaw.de/DAS_tiff/07-abh/1852/tif/00000884.tif",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egypt.edu/feuilleton/prisse.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egypt.edu/feuilleton/prisse.htm",
+          "error": null
+        },
+        {
+          "url": "http://members.aol.com/Yokamoto24/ny.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.aol.com/",
+          "error": null
+        },
+        {
+          "url": "http://www2.odl.ox.ac.uk/gsdl/cgi-bin/library?e=d-000-00---0sackle01--00-0-0-0prompt-10---4------0-1l--1-en-50---20-about---00001-001-1-1isoZz-8859Zz-1-0&a=d&c=sackle01&cl=CL3.1&d=sackler01-aam",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digital.bodleian.ox.ac.uk/",
+          "error": null
+        },
+        {
+          "url": "http://www.archive.org/details/newyorkobeliskcl00moldrich",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "http://archive.org/details/newyorkobeliskcl00moldrich",
+          "error": null
+        },
+        {
+          "url": "http://digi.azz.cz/Book021/images/135.jpg",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)"
+        },
+        {
+          "url": "http://gallica.bnf.fr/image?L=02300667&I=5",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://home.teleport.com/~jsarr/Istanbul_T3_obelisk.pdf",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://members.tripod.com/obeliscos_egipcios/esttut3e_en.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://members.tripod.com/obeliscos_egipcios/esttut3e_en.htm",
+          "error": null
+        },
+        {
+          "url": "http://www.specialtyinterests.net/karnak_king_standing.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www2.odl.ox.ac.uk/gsdl/cgi-bin/library?e=d-000-00---0sackle01--00-0-0-0prompt-10---4------0-1l--1-en-50---20-about---00001-001-1-1isoZz-8859Zz-1-0&a=d&c=sackle01&cl=CL3.1&d=sackler01-aag.4.1.1.30",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digital.bodleian.ox.ac.uk/",
+          "error": null
+        },
+        {
+          "url": "http://megiddo.ifrance.com/",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0022.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/the_battle_of_megiddo.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.uwm.edu/Course/egypt/274RH/Texts/AnnalsTuthmosisIII.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.mfa.org/collections/search_art.asp?recview=true&id=145121&coll_keywords=&coll_accession=23%2E733&coll_name=&coll_artist=&coll_place=&coll_medium=&coll_culture=&coll_classification=&coll_credit=&coll_provenance=&coll_location=&coll_has_images=&coll_on_view=&coll_sort=2&coll_sort_order=0&coll_package=0&coll_start=1",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://38.114.160.229/fif=fpx/SC1/SC11982.fpx&obj=iip,1.0&wid=800&cvt=jpeg",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.sachmet.ch/Stele-Thutmosis-III-Gebel-Barkal/seite%201234.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.let.rug.nl/~markjan/egyptian/texts/textpdf/GebelBarkalTuthmosisIII.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.let.rug.nl/~markjan/egyptian/texts/textpdf/ArmantTuthmosisIII.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.cs.st-andrews.ac.uk/~mjn/egyptian/texts/textpdf/ArmantTuthmosisIII.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.st-andrews.ac.uk/computer-science/",
+          "error": null
+        },
+        {
+          "url": "http://terraflex.co.il/ad/egypt/thothmosisIII_inscription.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.mfa.org/collections/search_art.asp?recview=true&id=145121",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sachmet.ch/Stele-Thutmosis-III-Gebel-Barkal/stele-thutmosis-III-gebel-barkal.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.dcs.st-and.ac.uk/~mjn/egyptian/texts/textpdf/GebelBarkalTuthmosisIII.pdf",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dcs.st-and.ac.uk'. (_ssl.c:1007)"
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/napata_stela.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.archaeogate.org/egittologia/pubblicazione/479/me-chioffi-a-elli-gmc-rigamonti-thutmosi-iii-la-stele-d.html",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.mom.fr/bibliotheque/bibnum/Notice.php?id=1080",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.let.rug.nl/~markjan/egyptian/texts/textpdf/CanalTuthmosisIII.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egypteeternelle.net/centredoc2/sources/A002/A002.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egypteeternelle.net/centredoc2/sources2/A002.xml",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://aaew.bbaw.de/LepsiusArchiv/img/sphinx.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.robertschoch.net/images/sphinx/stelaatsphinx.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://archive.org/details/urkundendesaegyp1819steiuoft",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/sphinxstela.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://homepage.mac.com/kasia_s/SzpakTexts.pdf",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.meritneith.de/traumstele-thutmosis.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-55539",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.ancient-egypt.org/literature/stories/dream_stela/index.html",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://ib205.tripod.com/sphinx_dream.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://ib205.tripod.com/sphinx_dream.html",
+          "error": null
+        },
+        {
+          "url": "http://www.ancientegyptonline.co.uk/dream-stele.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.bobmanske.com/dreamstela.shtml",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.mom.fr/bibnum/Notice.php?id=1080",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=119746&partid=1&IdNum=826&orig=%2fresearch%2fsearch_the_collection_database%2fmuseum_number_search.aspx",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?f=Bifao041_art_03.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.let.rug.nl/~markjan/egyptian/texts/textpdf/HymnSun.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sacred-texts.com/egy/tut/tut06.htm",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://digilander.libero.it/Menkaurah/innodi.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digilander.libero.it/Menkaurah/innodi.htm",
+          "error": null
+        },
+        {
+          "url": "http://weaver2.la.psu.edu/cams/festschrift/shubert.pdf",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://home.teleport.com/~jsarr/AIIIScarabs.pdf",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0191.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.meritneith.de/amenhotepIII-gedenkskarabaeen.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.rmnphoto.com/LowRes2/TR1/MAMOSV/87-001558.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.rmnphoto.com",
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/e5l0",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.digitalegypt.ucl.ac.uk/seals/comm.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ucl.ac.uk/museums-static/digitalegypt//seals/comm.html",
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/e5l2",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sacred-texts.com/egy/tut/img/pl06.jpg",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.nilemuse.com/muse/huntscarab2.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/e5l3",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.insecula.com/us/oeuvre/photo_ME0000017601.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.insecula.com/us/oeuvre/photo_ME0000027429.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://home.teleport.com/~jsarr/scarabs/king_AIII1.html",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.mfa.org/artemis/fullrecord.asp?oid=130798",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/e5l5",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/e5l6",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://anubis4_2000.tripod.com/SpecialExhibits/BigScarab.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.mfa.org/artemis/fullrecord.asp?oid=164310",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sofiatopia.org/equiaeon/davies.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://rostau.org.uk/Aye/index.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.glasspages.org/akhnaten.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://touregypt.net/hymntoaten.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'touregypt.net'. (_ssl.c:1007)"
+        },
+        {
+          "url": "http://academic.brooklyn.cuny.edu/history/virtual/reading/core4-01r03.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.academy.umd.edu/ila/Publications/Proceedings/2003/lrowland.pdf",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://aton01.chez.tiscali.fr/Antiquite/hymne.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://meryaton.free.fr/Akhenaton/grandhymne/gdhymne.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.astrodoc.net/andere/atonhymnus/hymnus.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/dc0z",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptomania.com/mitologia/aton.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptologia.org/textos/himnos/aton/aton_gran/",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.geroglifici.it/traslitterazione.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.demuseumwinkel.nl/html/achnaton.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://perso.wanadoo.fr/ka.korporation/bibliotheque/aton/petit_meryre.gif",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://perso.wanadoo.fr/ka.korporation/bibliotheque/aton/petit_toutou.gif",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.sacred-texts.com/egy/tut/tut09.htm",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.uwm.edu/Course/egypt/274RH/Texts/ShortAtenHymn.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://slave1802.free.fr/article.php3?id_article=396",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptologia.org/textos/himnos/aton/aton_peq/",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reclam.de/detail/978-3-15-018492-9?query=echnaton",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.reclam.de/produktdetail/sonnenhymnen-aegyptisch-deutsch-9783150184929",
+          "error": null
+        },
+        {
+          "url": "http://katherinestange.com/egypt/stelapic.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.digitalegypt.ucl.ac.uk/amarna/boundary.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ucl.ac.uk/museums-static/digitalegypt//amarna/boundary.html",
+          "error": null
+        },
+        {
+          "url": "http://www.unc.edu/courses/2001spring/clar/020/001/Ancient%20Cities/boundary_stelae.htm",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://echoesofeternity.umkc.edu/Nefertiti.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/Gardiner_Seite_1.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/Gardiner_Seite_2.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/Assmann_Ocular_Desire_NEU.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/AeHG_148.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/dmys",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://oi.uchicago.edu/OI/MUS/PA/EGYPT/BEES/IMAGES/BEES_KARNAK.html",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.geocities.com/debunkinglc/Stela.html",
+          "status": "error",
+          "status_code": 429,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.angelfire.com/ne2/TiaDuat/tutstela.html",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "The read operation timed out"
+        },
+        {
+          "url": "http://snipurl.com/9yqb",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://vincent.euverte.free.fr/Photos/Textes/Louvre-C296.JPG",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&idNotice=19145",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://collections.louvre.fr/ark:/53355/cl010026515",
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?fic=Bifao030_art_62.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sacred-texts.com/egy/leg/leg22.htm",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/osiris_hymn.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.wesir.org/hym3.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.egiptologia.org/textos/himnos/osiris_gran/",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://sethy1.free.fr/vache.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://sethy1.free.fr/twtankh.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://rostau.org.uk/DestructionOfMankind/index.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sacred-texts.com/egy/leg/leg15.htm",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://asia.geocities.com/aten_nz/Story4.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptologia.org/mitologia/leyendas/vaca_celeste/",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/bji3",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.narmer.pl/main/ima/aby04.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/bji5",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egyptarchive.co.uk/images/seti_abydos/abydos_seti_20.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.narmer.pl/main/abydos_en.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "https://www.egyptologyforum.org/: http:/www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=177487&partid=1&IdNum=117&orig=%2fresearch%2fsearch_the_collection_database%2fmuseum_number_search.aspx",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-203579",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.narmer.pl/main/sakkara_en.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.bubastis.be/art/musee/marseille/charite_76.html",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -3] Temporary failure in name resolution"
+        },
+        {
+          "url": "http://snipurl.com/enyb",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/enyd",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/CadresFenetre?O=NUMM-33246",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=110336&partid=1&IdNum=10060&orig=%2fresearch%2fsearch_the_collection_database%2fmuseum_number_search.aspx",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.hieroglyph.jp/joppa/joppa-text.index.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.hieroglyph.jp/joppa/joppa-translit..htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.bookrags.com/ebooks/7413/3.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/the_taking_of_joppa.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptologia.org/fuentes/papiros/harris500/imagen01.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.hieroglyph.jp/prince/prince-text.index.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/DoomedPrince/html/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/DoomedPrince/html/",
+          "error": null
+        },
+        {
+          "url": "http://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/prince.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/prince.pdf",
+          "error": null
+        },
+        {
+          "url": "http://www.hieroglyph.jp/prince/prince-translit..htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0031.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.sacred-texts.com/egy/eml/eml34.htm",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/the_doomed_prince.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.bookrags.com/ebooks/7413/6.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://instruct1.cit.cornell.edu/courses/nes262/studentproj/spring05/jlm225/taleofprince.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://2terres.hautesavoie.net/livreseg/maspcont/textes/conte014.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.ville-ge.ch/musinfo/mahg/publics/pages/boite_outils/savoir/archeologie/egypte/prpred1.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.mein-altaegypten.de/internet/Alt_Aegypten_2/Mythenframe.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://sethy1.free.fr/nauri.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.archaeowiki.org/Nauri_Decree_of_Seti_I",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-203580",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://sethy1.free.fr/An400.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/rameside_inscription.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://members.tripod.com/obeliscos_egipcios/params.htm",
+          "status": "error",
+          "status_code": 502,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-55537",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0054.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://kemit.club.fr/obelisqueparis/pageobelisque/obelisquecadres.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://egipto.com/obeliscos/jero2.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-107985",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-31420",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.insecula.com/oeuvre/photo_ME0000065270.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.parutions.com/pages/1-4-7-4113.html",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.britishmuseum.org/research/search_the_collection_database/search_results_ids.aspx?IdNum=10247",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://etana.org/sites/default/files/coretexts/15241.pdf",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/anastasi_i.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egypt.e7even.com/yare%20egyptology/images/Petrie02_P14.gif",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.digitalegypt.ucl.ac.uk/thebes/merenptah/israelstela.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ucl.ac.uk/museums-static/digitalegypt//thebes/merenptah/israelstela.jpg",
+          "error": null
+        },
+        {
+          "url": "http://www.uwm.edu/Course/egypt/274RH/Texts/MerneptahStela.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://bibliothek.bbaw.de/bibliothek-digital/digitalequellen/schriften/anzeige/index_html?band=10-sitz/1896-1&seite:int=609",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?fic=Bifao021_art_04.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://touregypt.net/featurestories/caverns.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'touregypt.net'. (_ssl.c:1007)"
+        },
+        {
+          "url": "http://snipurl.com/eucj",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?f=Bifao041_art_01.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?f=Bifao042_art_01.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?f=Bifao043_art_01.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?f=Bifao045_art_01.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?f=Bifao046_art_03.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptologia.org/textos/cavernas/",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=113976&partid=1&IdNum=10185&orig=%2fresearch%2fsearch_the_collection_database%2fmuseum_number_search.aspx",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=113975&partid=1&IdNum=10185&orig=%2fresearch%2fsearch_the_collection_database%2fmuseum_number_search.aspx",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.hieroglyph.jp/apophis/apophis-text.index.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.hieroglyph.jp/apophis/apophis-translit.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/apophis.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ancient-egypt.org/language/texts_story/seqenenre.html",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://2terres.hautesavoie.net/livreseg/maspcont/textes/conte021.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.britishmuseum.org/research/search_the_collection_database/search_results_ids.aspx?IdNum=9999",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://diglit.ub.uni-heidelberg.de/diglit/birch1876",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://digi.ub.uni-heidelberg.de/diglit/birch1876",
+          "error": null
+        },
+        {
+          "url": "http://ia300204.us.archive.org/2/items/dictionnairedup00piehgoog/dictionnairedup00piehgoog.pdf",
+          "status": "error",
+          "status_code": 500,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.thotweb.com/encyclopedie/pdf/pharris1.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0124.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.judithmathes.de/aegypten/nr/harem.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-55530",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-93188",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/judicial_turin_papyrus.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://tinyurl.com/7zupdb",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://members.tripod.com/~ib205/harim.html",
+          "status": "error",
+          "status_code": 502,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/eaap",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.cg58.fr/patrimoi/varzygal3.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.cg58.fr/anglais/patrimoi/varzygalgb.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.cg58.fr/patrimoi/varzygalerie.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://snipurl.com/eaan",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www3.niu.edu/univ_press/books/295-8.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-203588",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.mom.fr/bibliotheque/bibnum/Notice.php?id=990&url=%26auteur%3Dmariette",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?fic=Bifao045_art_09.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/HorusAndSeth/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/HorusAndSeth/",
+          "error": null
+        },
+        {
+          "url": "http://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/HetS.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/HetS.pdf",
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/horus_and_seth.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.meritneith.de/streit-horus-seth.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptologia.org/mitologia/leyendas/juicio_horus_seth/",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptologia.org/fuentes/papiros/moscu120/moscu120_g.gif",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.iut.univ-paris8.fr/~rosmord/hieroglyphes/oun/",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.iut.univ-paris8.fr/~rosmord/hieroglyphes/oun.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://egypt.hut2.ru/hiero_013.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.otzywy.com",
+          "error": null
+        },
+        {
+          "url": "http://www.utexas.edu/courses/cc304c2/wenamun.html",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://members.tripod.com/~ib205/report.html",
+          "status": "error",
+          "status_code": 502,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/9l10",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://perso.wanadoo.fr/thotweb/pro/spens1998.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.egyptology.ru/scarcebooks.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.thotweb.com/editions/ounamon.php",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ancientneareast.net/wenamun_bibliography.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.britishmuseum.org/research/search_the_collection_database/search_results_ids.aspx?IdNum=10474|>URL</a><br>-- Hieroglyphic text in 28 gif-files: <a href=",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/amenemop.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/amenemop.pdf",
+          "error": null
+        },
+        {
+          "url": "http://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/amenemop.ps",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://webperso.iut.univ-paris8.fr/~rosmord/hieroglyphes/amenemop.ps",
+          "error": null
+        },
+        {
+          "url": "http://www2.powercom.net/~jrblack/diss.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://tinyurl.com/4th8t",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.maat.sofiatopia.org/amen_em_apt.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.photo.rmn.fr/LowRes2/TR1/QMF5VT/95-011748.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.photo.rmn.fr/LowRes2/TR1/KYG1Z6/95-011749.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://gallica.bnf.fr/ark:/12148/bpt6k555237",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://gallica.bnf.fr/ark:/12148/bpt6k555237",
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?fic=Bifao041_art_10.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/Stele_der_Verdammten_1.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/Stele_der_Verdammten_2.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/Stele_der_Verdammten_3.jpg",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/TUAT_II_112-117.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.ifao.egnet.net/doc/PubEnLigne/BIFAO/b.php?fic=Bifao060_art_05.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0129.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.kent.net/DisplacedDynasties/piankhistele.gif",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/piye.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://tinyurl.com/3rkbf",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectId=111561&partId=1",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://maat.sofiatopia.org/shabaka.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://maat.sofiatopia.org/memphis.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://snipurl.com/cggm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/shabaka_stone.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.emba.uvm.edu/~wilson/The%20Memphite%20Theology.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.egiptomania.com/mitologia/teomenfita.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egiptologia.org/mitologia/leyendas/creacion_ptah/",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://hal.archives-ouvertes.fr/docs/00/02/92/01/PDF/Traunecker%201.pdf",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-203586",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://membres.lycos.fr/slave1802/article.php3?id_article=342",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno 111] Connection refused"
+        },
+        {
+          "url": "http://www.harrassowitz.de/verlag/egypt/4786.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://ancient-egypt.co.uk/nubian%20museum,%20aswan/pages/Aspalta001.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://ancient-egypt.co.uk/nubian%20museum,%20aswan/pages/Aspalta001.htm",
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-203594",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www2.rz.hu-berlin.de/nilus/net-publications/ibaes5/abstracts_d.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_page.pl?DPI=100&callnum=DT62.T6L5_vol3_cop1&object=88",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.lib.uchicago.edu/cgi-bin/eos/eos_page.pl?DPI=100&callnum=DT62.T6L5_vol3_cop1&object=88",
+          "error": null
+        },
+        {
+          "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_page.pl?DPI=100&callnum=DT62.T6L5_vol3_cop1&object=89",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.lib.uchicago.edu/cgi-bin/eos/eos_page.pl?DPI=100&callnum=DT62.T6L5_vol3_cop1&object=89",
+          "error": null
+        },
+        {
+          "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_page.pl?DPI=100&callnum=DT62.T6L5_vol3_cop1&object=90",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.lib.uchicago.edu/cgi-bin/eos/eos_page.pl?DPI=100&callnum=DT62.T6L5_vol3_cop1&object=90",
+          "error": null
+        },
+        {
+          "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_page.pl?DPI=100&callnum=DT62.T6L5_vol2_cop1&object=59",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.lib.uchicago.edu/cgi-bin/eos/eos_page.pl?DPI=100&callnum=DT62.T6L5_vol2_cop1&object=59",
+          "error": null
+        },
+        {
+          "url": "http://www.lib.uchicago.edu/cgi-bin/eos/eos_page.pl?DPI=100&callnum=DT62.T6L5_vol1_cop1&ident=136",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.lib.uchicago.edu/cgi-bin/eos/eos_page.pl?DPI=100&callnum=DT62.T6L5_vol1_cop1&ident=136",
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-93168",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-93170",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-93171",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-93172",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0158.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/lagides.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Africa/Egypt/_Texts/BEVHOP/2*.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.philae.nu/PerAnkh/Lamentations.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://philae.nu/",
+          "error": null
+        },
+        {
+          "url": "http://www.egiptomania.com/mitologia/isis_nephtys.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.uni-trier.de/fileadmin/organisation/Presse/andere_Publikationen/UJ2003-SH.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.uni-trier.de/fileadmin/organisation/Presse/andere_Publikationen/UJ2003-SH.pdf",
+          "error": null
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0127.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/great_mendes_stela.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/cgi-bin/YaBB/YaBB.pl?action=lexikond&id=030911130505",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.livius.org/cg-cm/chronicles/chron00.html",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://archive.org/details/decreesofmemphis03budg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0126.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.reshafim.org.il/ad/egypt/texts/canopus_decree.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-203583",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-54692",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.ifao.egnet.net/bifao/56/",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.ifao.egnet.net/bifao/56/",
+          "error": null
+        },
+        {
+          "url": "http://www.uni-potsdam.de/portal/mai04/vermischtes/stein.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=117631&partid=1&searchText=YCA62958&fromADBC=ad&toADBC=ad&numpages=10&orig=%2fresearch%2fsearch_the_collection_database.aspx\u00a4tPage=1",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://lancelot.pecquet.org/img/history/rosette.gif",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://cu.imt.net/~jimloy/egypt/rosetta.htm",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "timed out"
+        },
+        {
+          "url": "http://www.britishmuseum.org/explore/highlights/article_index/r/the_rosetta_stone_translation.aspx",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.fordham.edu/halsall/ancient/rosetta-stone-translation.html",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://sourcebooks.fordham.edu/ancient/rosetta-stone-translation.asp",
+          "error": null
+        },
+        {
+          "url": "http://archive.org/details/decreesmemphisa01budggoog",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.meritneith.de/text_rosette.htm",
+          "status": "dead",
+          "status_code": 404,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-29793",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.brainfly.net/html/books/rop0062.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egyptologyforum.org/bbs/Rosetta.htm",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/bbs/Rosetta.htm",
+          "error": null
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-106600",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://2terres.hautesavoie.net/pegypte/texte/prosett1.html",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://2terres.hautesavoie.net/pegypte/texte/prosett2.html",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://2terres.hautesavoie.net/pegypte/texte/prosett3.html",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-28007",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://visualiseur.bnf.fr/Visualiseur?Destination=Gallica&O=NUMM-28006",
+          "status": "dead",
+          "status_code": null,
+          "redirect_url": null,
+          "error": "[Errno -2] Name or service not known"
+        },
+        {
+          "url": "http://www.britishmuseum.org/explore/highlights/article_index/h/history_uncovered_in_conservin.aspx",
+          "status": "blocked",
+          "status_code": 403,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.aegyptologie.com/forum/attachments/Philae_436.jpg",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": null,
+          "error": null
+        },
+        {
+          "url": "http://www.egyptologyforum.org/bbs/Philae_Last.pdf",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/bbs/Philae_Last.pdf",
+          "error": null
+        },
+        {
+          "url": "http://www.egyptologyforum.org",
+          "status": "alive",
+          "status_code": 200,
+          "redirect_url": "https://www.egyptologyforum.org/",
+          "error": null
+        }
+      ],
+      "summary": {
+        "total": 569,
+        "alive": 191,
+        "dead": 327,
+        "blocked": 35,
+        "error": 16
+      }
+    }
+  ]
+}

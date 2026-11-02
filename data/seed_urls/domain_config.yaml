@@ -1,0 +1,55 @@
+# Per-domain crawl policies for Aegyptus
+# All domains default to 1 req/sec unless overridden here.
+
+defaults:
+  requests_per_second: 1.0
+  max_retries: 3
+  backoff_base: 2  # exponential backoff multiplier
+  backoff_max: 120  # max seconds between retries
+  respect_robots_txt: true
+  user_agent: "Aegyptus-Corpus-Builder/0.1 (+https://github.com/aegyptus; scholarly research)"
+
+domains:
+  "archive.org":
+    requests_per_second: 0.5
+    use_api: true
+    notes: "Use Internet Archive bulk download API, not page scraping."
+
+  "www.ifao.egnet.net":
+    requests_per_second: 0.33  # 1 req per 3 seconds
+    notes: "IFAO - strict rate limiting required per spec."
+
+  "oraec.github.io":
+    requests_per_second: 2.0
+    notes: "Static GitHub Pages site, generous rate."
+
+  "www.egyptologyforum.org":
+    requests_per_second: 0.5
+    notes: "Small community site, be gentle."
+
+  "pyramidtextsonline.com":
+    requests_per_second: 1.0
+
+  "www.sacred-texts.com":
+    requests_per_second: 1.0
+
+  "www.attalus.org":
+    requests_per_second: 1.0
+
+  "ancientworldonline.blogspot.com":
+    requests_per_second: 0.5
+    notes: "Blogspot, moderate rate."
+
+  # University domains - strict robots.txt compliance
+  "digital.library.upenn.edu":
+    requests_per_second: 0.5
+    strict_robots: true
+    notes: "University domain - strict robots.txt compliance."
+
+  "www.ucl.ac.uk":
+    requests_per_second: 0.5
+    strict_robots: true
+
+  "www.griffith.ox.ac.uk":
+    requests_per_second: 0.5
+    strict_robots: true

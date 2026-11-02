@@ -1,0 +1,133 @@
+{
+  "canonical_id": "aeg_manual_shabaka_stone",
+  "conventional_name": "Denkmal memphitischer Theologie / Shabaka Stone (BM EA 498)",
+  "script_type": "hieroglyphic",
+  "date_earliest": -710,
+  "date_latest": -695,
+  "period_label": "25th Dynasty (Kushite)",
+  "findspot": "Memphis",
+  "current_location": "British Museum",
+  "text_type": "theological treatise",
+  "completeness": "damaged",
+  "shelfmarks": ["BM EA 498"],
+  "source_corpus": ["manual"],
+  "extra_metadata": {
+    "bridge_text": true,
+    "tradition": "memphite_theology",
+    "pharaoh": "Shabaka",
+    "material": "basalt slab",
+    "original_date_estimate": "Old Kingdom (copied by Shabaka)",
+    "sources": [
+      "Breasted, J.H. (1901) 'The Philosophy of a Memphite Priest'",
+      "Junker, H. (1940) 'Die Götterlehre von Memphis'",
+      "Lichtheim, M. (1973) 'Ancient Egyptian Literature' Vol. 1, pp. 51-57",
+      "Allen, J.P. (1988) 'Genesis in Egypt'"
+    ],
+    "license": "public_domain",
+    "note": "Translations from Breasted 1901 (public domain). Sentence segmentation follows Breasted's line numbering."
+  },
+  "concordance": [
+    {"external_system": "british_museum", "external_id": "EA498"},
+    {"external_system": "trismegistos", "external_id": "23755"}
+  ],
+  "aliases": [
+    "Shabaka Stone",
+    "Schabaka-Stein",
+    "Denkmal memphitischer Theologie",
+    "Memphite Theology",
+    "BM EA 498",
+    "British Museum EA 498"
+  ],
+  "sentences": [
+    {
+      "sequence_num": 1,
+      "translation": {"en": "The living Horus: Who prospers the Two Lands; the Two Ladies: Who prospers the Two Lands; the Golden Horus: Who prospers the Two Lands; the King of Upper and Lower Egypt: Neferkare; the Son of Re: Shabaka, beloved of Ptah-South-of-his-Wall, who lives like Re forever."},
+      "source_detail": {"line": "1-2", "section": "royal_titulary"}
+    },
+    {
+      "sequence_num": 2,
+      "translation": {"en": "His majesty copied this writing anew in the house of his father Ptah-South-of-his-Wall. His majesty had found it as a work of the ancestors which was worm-eaten, so that it could not be understood from the beginning to the end."},
+      "source_detail": {"line": "2-3", "section": "colophon"}
+    },
+    {
+      "sequence_num": 3,
+      "translation": {"en": "His majesty copied it anew so that it became better than it had been before, in order that his name might endure and his monument last in the house of his father Ptah-South-of-his-Wall throughout eternity."},
+      "source_detail": {"line": "3-4", "section": "colophon"}
+    },
+    {
+      "sequence_num": 48,
+      "translation": {"en": "There took shape in the heart, there took shape on the tongue, the form of Atum. For the very great one is Ptah, who gave life to all the gods and their kas through this heart and this tongue."},
+      "source_detail": {"line": "48-49", "section": "heart_tongue_creation"}
+    },
+    {
+      "sequence_num": 49,
+      "translation": {"en": "In which Horus had taken shape as Ptah, in which Thoth had taken shape as Ptah. Thus heart and tongue rule over all the limbs, teaching that he is in every body, in every mouth of all gods, all men, all cattle, all creeping things, whatever lives."},
+      "source_detail": {"line": "49-50", "section": "heart_tongue_creation"}
+    },
+    {
+      "sequence_num": 50,
+      "translation": {"en": "Thinking whatever he wishes and commanding whatever he wishes."},
+      "source_detail": {"line": "50", "section": "heart_tongue_creation"}
+    },
+    {
+      "sequence_num": 51,
+      "translation": {"en": "His Ennead is before him as teeth and lips, which are the semen and the hands of Atum. For the Ennead of Atum came into being through his semen and his fingers. But the Ennead is the teeth and lips in this mouth which pronounced the name of everything."},
+      "source_detail": {"line": "51-53", "section": "ennead_of_ptah"}
+    },
+    {
+      "sequence_num": 52,
+      "translation": {"en": "From which Shu and Tefnut came forth, and which gave birth to the Ennead."},
+      "source_detail": {"line": "53", "section": "ennead_of_ptah"}
+    },
+    {
+      "sequence_num": 53,
+      "translation": {"en": "The sight of the eyes, the hearing of the ears, the breathing of the nose, they report to the heart. It is the heart that makes every completed concept come forth, and it is the tongue that announces what the heart thinks."},
+      "source_detail": {"line": "53-55", "section": "heart_tongue_creation"}
+    },
+    {
+      "sequence_num": 54,
+      "translation": {"en": "Thus all the gods were born, Atum and his Ennead as well. For every divine word came into being through what the heart thought and the tongue commanded."},
+      "source_detail": {"line": "55-56", "section": "heart_tongue_creation"}
+    },
+    {
+      "sequence_num": 55,
+      "translation": {"en": "Thus the kas were made and the hemsut appointed, who make all food and all provisions, through this word."},
+      "source_detail": {"line": "56-57", "section": "heart_tongue_creation"}
+    },
+    {
+      "sequence_num": 56,
+      "translation": {"en": "Thus justice is given to him who does what is loved, and injustice to him who does what is hated. Thus life is given to the peaceful and death to the criminal."},
+      "source_detail": {"line": "57-58", "section": "heart_tongue_creation"}
+    },
+    {
+      "sequence_num": 57,
+      "translation": {"en": "Thus all work, all crafts are made, the action of the hands, the movement of the legs, the motion of every limb, according to this command which is thought by the heart and comes forth on the tongue and creates the performance of everything."},
+      "source_detail": {"line": "58-59", "section": "heart_tongue_creation"}
+    },
+    {
+      "sequence_num": 58,
+      "translation": {"en": "Thus it is said of Ptah: 'He who made all and brought the gods into being.' He is indeed Ta-tenen, who brought forth the gods, for everything came forth from him, food and provisions, divine offerings, all good things."},
+      "source_detail": {"line": "59-60", "section": "ptah_tatenen"}
+    },
+    {
+      "sequence_num": 59,
+      "translation": {"en": "Thus it was found and recognized that his strength is greater than that of the other gods. And so Ptah was satisfied, after he had made all things and every divine word."},
+      "source_detail": {"line": "60-61", "section": "ptah_tatenen"}
+    },
+    {
+      "sequence_num": 60,
+      "translation": {"en": "He gave birth to the gods, he made the towns, he established the nomes, he placed the gods in their shrines, he established their offerings, he established their shrines, he made their bodies according to their wishes."},
+      "source_detail": {"line": "61-62", "section": "ptah_tatenen"}
+    },
+    {
+      "sequence_num": 61,
+      "translation": {"en": "And so the gods entered into their bodies of every wood, every stone, every clay, everything that grows upon him, in which they had taken form."},
+      "source_detail": {"line": "62-63", "section": "ptah_tatenen"}
+    },
+    {
+      "sequence_num": 62,
+      "translation": {"en": "And so all the gods and their kas gathered to him, content and united with the Lord of the Two Lands."},
+      "source_detail": {"line": "63-64", "section": "ptah_tatenen"}
+    }
+  ]
+}

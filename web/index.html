@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AEGYPTUS · THE LABYRINTH</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400" rel="stylesheet">
+<!-- v4.0: preload hieroglyph font (WOFF2 subset of U+13000-U+1343F, ~265KB) -->
+<link rel="preload"
+      href="fonts/NotoSansEgyptianHieroglyphs-Regular.woff2"
+      as="font" type="font/woff2" crossorigin>
+<style>
+@font-face {
+  font-family: 'Noto Egyptian';
+  src: url('fonts/NotoSansEgyptianHieroglyphs-Regular.woff2') format('woff2'),
+       url('fonts/NotoSansEgyptianHieroglyphs-Regular.ttf') format('truetype'),
+       local('Noto Sans Egyptian Hieroglyphs');
+  font-display: block;
+  /* No unicode-range: browser must evaluate this font for ALL characters.
+     Without it Firefox/Zen will not download the file until a matching
+     codepoint appears in real HTML text — which never happens on a canvas-
+     only page.  The font only contains U+13000-U+1342F so non-hieroglyphs
+     simply fall through to the next family in the stack. */
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body {
+  width: 100%; height: 100%;
+  overflow: hidden;
+  background: #050504;
+  cursor: none;
+}
+
+canvas#game {
+  display: block;
+  width: 100%; height: 100%;
+  image-rendering: pixelated;
+}
+
+/* CRT scanline overlay */
+#crt-overlay {
+  position: fixed; inset: 0;
+  pointer-events: none;
+  z-index: 10;
+  background:
+    repeating-linear-gradient(
+      0deg,
+      rgba(0,0,0,0.025) 0px,
+      rgba(0,0,0,0.025) 1px,
+      transparent 1px,
+      transparent 2px
+    );
+}
+#crt-overlay::after {
+  content: '';
+  position: absolute; inset: 0;
+  background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,0.45) 100%);
+}
+
+/* ORACLE INPUT — hidden but receives keyboard focus */
+#oracle-input-capture {
+  position: fixed;
+  left: -9999px; top: -9999px;
+  width: 1px; height: 1px;
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* ORACLE CHAT TEXT OVERLAY — selectable, scrollable message area */
+#oracle-chat-text {
+  display: none;
+  position: fixed;
+  z-index: 6;
+  overflow-y: auto;
+  overflow-x: hidden;
+  pointer-events: auto;
+  user-select: text;
+  -webkit-user-select: text;
+  cursor: text;
+  font-family: 'Fira Code', monospace;
+  font-size: 13px;
+  line-height: 1.55;
+  background: transparent;
+  padding: 8px 0 8px 0;
+  /* Scrollbar styling */
+  scrollbar-width: thin;
+  scrollbar-color: #3a3228 transparent;
+}
+#oracle-chat-text::-webkit-scrollbar { width: 5px; }
+#oracle-chat-text::-webkit-scrollbar-track { background: transparent; }
+#oracle-chat-text::-webkit-scrollbar-thumb { background: #3a3228; border-radius: 3px; }
+.och-tool { color: #6a8a6a; font-size: 11px; padding: 1px 0 1px 18px; }
+.och-tool.pending { color: #4a6a4a; }
+.och-tool.error   { color: #a04030; }
+.och-tool-result  { color: #8a9a6a; font-size: 11px; padding: 0 0 4px 28px; }
+.och-tool-result.error { color: #a04030; }
+.och-user   { color: #c8bfb0; padding: 4px 0; }
+.och-user::before { content: '▶ '; color: #8a8070; }
+.och-oracle { color: #8fbc9f; padding: 4px 0 8px 0; }
+.och-oracle .label { color: #4a8a6a; font-size: 10px; letter-spacing: 1px; margin-right: 6px; }
+.och-ref { color: #8a6a1e; font-size: 11px; padding: 0 0 4px 18px; }
+.och-waiting { color: #4a6a4a; font-style: italic; }
+
+/* SPEAK overlay */
+#speak-overlay {
+  position: fixed; inset: 0;
+  background: #0a0a08;
+  z-index: 50;
+  display: none;
+  flex-direction: column;
+  font-family: 'Fira Code', monospace;
+  color: #e8dcc8;
+}
+#speak-overlay.active { display: flex; }
+
+#speak-header {
+  padding: 12px 24px;
+  border-bottom: 1px solid #2a2420;
+  display: flex; align-items: center; justify-content: space-between;
+  flex-shrink: 0;
+}
+#speak-header .speak-title { color: #8fbc9f; font-size: 13px; letter-spacing: 2px; }
+#speak-header .speak-model { color: #5a8a6a; font-size: 10px; border: 1px solid #5a8a6a; padding: 2px 8px; }
+#speak-header .speak-close {
+  background: none; border: 1px solid #2a2420; color: #8a8070;
+  font-family: 'Fira Code', monospace; font-size: 11px; padding: 2px 10px; cursor: pointer;
+}
+#speak-header .speak-close:hover { border-color: #a04030; color: #a04030; }
+
+#speak-columns { flex: 1; display: flex; overflow: hidden; }
+
+#col-hiero {
+  width: 100px; border-right: 1px solid #2a2420; padding: 16px 8px;
+  overflow-y: auto; font-family: 'Noto Egyptian'; font-size: 22px;
+  color: #c4922a; line-height: 2; text-align: center; background: #050504;
+}
+#col-corpus {
+  width: 340px; border-right: 1px solid #2a2420; padding: 16px 20px;
+  overflow-y: auto; font-size: 13px;
+}
+#col-synthesis {
+  flex: 1; padding: 24px 28px; overflow-y: auto;
+  font-family: 'EB Garamond', serif; font-size: 16px; line-height: 1.85;
+}
+#col-synthesis h2 {
+  color: #c4922a; font-family: 'Fira Code', monospace; font-size: 13px;
+  letter-spacing: 2px; margin: 24px 0 12px; padding-bottom: 6px;
+  border-bottom: 1px solid #2a2420; text-transform: uppercase;
+}
+#col-synthesis h2:first-child { margin-top: 0; }
+#col-synthesis blockquote {
+  border-left: 2px solid #8a6a1e; padding: 8px 16px; margin: 12px 0;
+  font-style: italic;
+}
+#col-synthesis p { margin-bottom: 12px; }
+
+.corpus-passage { margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid #2a2420; }
+.corpus-passage:last-child { border-bottom: none; }
+.corpus-passage .translit { color: #8a6a1e; font-size: 10px; margin-bottom: 2px; }
+.corpus-passage .translation { font-family: 'EB Garamond', serif; font-size: 14px; line-height: 1.6; }
+.corpus-passage .meta { color: #554e48; font-size: 9px; margin-top: 2px; }
+
+.synthesis-label { font-size: 11px; color: #8fbc9f; letter-spacing: 2px; padding-bottom: 12px; margin-bottom: 16px; border-bottom: 1px solid #2a2420; }
+.synthesis-citation { color: #554e48 !important; font-family: 'Fira Code', monospace !important; font-size: 10px !important; margin-bottom: 16px !important; }
+.synthesis-complete { text-align: center; color: #8a6a1e; font-family: 'Noto Egyptian'; padding: 20px 0 8px; letter-spacing: 4px; }
+.synthesis-error { color: #a04030; font-family: 'Fira Code', monospace; font-size: 12px; padding: 12px; border: 1px solid #a04030; margin: 12px 0; }
+
+#speak-status {
+  padding: 8px 24px; border-top: 1px solid #2a2420;
+  color: #8a8070; font-size: 11px; display: flex; justify-content: space-between;
+}
+</style>
+</head>
+<body>
+<canvas id="game"></canvas>
+<div id="crt-overlay"></div>
+
+<!-- Force hieroglyph font download: browsers load @font-face lazily only when
+     a matching character appears in the DOM. Without this invisible element
+     Firefox/Zen never downloads the font, so canvas rendering fails. -->
+<span id="hiero-font-primer" aria-hidden="true" style="position:fixed;left:-9999px;top:-9999px;font-family:'Noto Egyptian',serif;font-size:1px;opacity:0;pointer-events:none;">&#x13000;</span>
+
+<!-- Hidden input: captures Oracle keyboard input reliably -->
+<input id="oracle-input-capture" type="text" autocomplete="off" autocorrect="off" spellcheck="false" tabindex="-1" aria-hidden="true">
+
+<!-- Oracle chat text overlay: selectable + scrollable message log -->
+<div id="oracle-chat-text"></div>
+
+<!-- SPEAK overlay -->
+<div id="speak-overlay">
+  <div id="speak-header">
+    <span class="speak-title">𓂋 SPEAK — <span id="speak-chamber-name"></span></span>
+    <span class="speak-model">moonshotai/kimi-k2.5</span>
+    <button class="speak-close" onclick="closeSpeakOverlay()">[ ESC ]</button>
+  </div>
+  <div id="speak-columns">
+    <div id="col-hiero"></div>
+    <div id="col-corpus"></div>
+    <div id="col-synthesis"></div>
+  </div>
+  <div id="speak-status">
+    <span id="speak-status-left"></span>
+    <span id="speak-status-right"></span>
+  </div>
+</div>
+
+<!-- v5.0 Day 4: kit-of-parts must load before game.js (which calls Kit.load/size_room_for). -->
+<script src="kit/loader.js"></script>
+<script src="kit/assembler.js"></script>
+<!-- v5.0 Day-2 carry-over: EB-Garamond article reader overlay -->
+<script src="reader.js"></script>
+<script src="game.js"></script>
+</body>
+</html>

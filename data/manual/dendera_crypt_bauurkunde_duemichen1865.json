@@ -1,0 +1,3502 @@
+{
+  "canonical_id": "aeg_manual_dendera_crypt_bauurkunde_duemichen1865",
+  "conventional_name": "Dendera, crypt building record (Bauurkunde, 'secret corridor') / Dümichen 1865",
+  "script_type": "hieroglyphic",
+  "date_earliest": -80,
+  "date_latest": -30,
+  "period_label": "Ptolemaic",
+  "findspot": "Dendera",
+  "current_location": "in situ, crypt of the Temple of Hathor, Dendera",
+  "text_type": "building inscription",
+  "completeness": "damaged",
+  "source_corpus": [
+    "manual"
+  ],
+  "extra_metadata": {
+    "license": "public_domain",
+    "needs_review": true,
+    "ml_draft_layers": [
+      "translation.en",
+      "transliteration"
+    ],
+    "note": "19th-century German translation (public domain), OCR lightly cleaned; 'fs' in German = ß (period typography). English and transliteration are machine drafts. No hieroglyph layer (plates are lithographs).",
+    "sources": [
+      "Dümichen, J. (1865) Bauurkunde der Tempelanlagen von Dendera in einem der geheimen Corridore im Innern der Tempelmauer aufgefunden, Leipzig."
+    ],
+    "archive_org": [
+      "bauurkundederte00dmgoog",
+      "bub_gb_KR8GAAAAQAAJ"
+    ],
+    "gap": "Lines 1-21 of the continuous translation (printed pp. 38-39) are missing from both archive.org scans.",
+    "claims": [
+      "plan found in old writings from the time of Khufu (Taf. XVI a-b)",
+      "document on animal hide from the time of the Followers (?) of Horus, found in a brick wall under Pepi (Taf. XV 36-40)",
+      "restoration by Thutmose III"
+    ]
+  },
+  "aliases": [
+    "Dendera Bauurkunde",
+    "Dendera crypt building text",
+    "Bauurkunde von Dendera"
+  ],
+  "sentences": [
+    {
+      "sequence_num": 1,
+      "transliteration": null,
+      "translation": {
+        "de": "Name des Tempels der Hathor, Herrin von An: Haus des Men-Amulets, die beiden Welten des An-Hauses.",
+        "en": "Name of the temple of Hathor, lady of An (Iunet): House of the Menat amulet, the two worlds of the An house."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XII-XVII l. 22",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 2,
+      "transliteration": null,
+      "translation": {
+        "de": "Name der göttlichen Halle: das Systrum-Haus, das Neith-Haus, das Isis-Haus,",
+        "en": "Name of the divine hall: the Sistrum House, the Neith House, the Isis House,"
+      },
+      "source_detail": {
+        "plate_line": "l. 23",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 3,
+      "transliteration": null,
+      "translation": {
+        "de": "das Freudenhaus, das Techuhaus, das süsse Haus,",
+        "en": "the House of Joy, the Tekhu House, the Sweet House,"
+      },
+      "source_detail": {
+        "plate_line": "l. 24",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 4,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des Herauskommens des Ra aus seinem Neste, Tarer, die Grosse die da macht alles Seiende.",
+        "en": "the House of Ra's coming forth from his nest, Tarer, the Great One who makes all that exists."
+      },
+      "source_detail": {
+        "plate_line": "l. 25",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 5,
+      "transliteration": null,
+      "translation": {
+        "de": "Dies sind die Namen der Göttin: Tochter der Sonne, Herrin des Himmels, Gebieterin des weiblichen Geschlechts, göttliche Frau, Isis, die Herrin des Systrums,",
+        "en": "These are the names of the goddess: daughter of the sun, lady of heaven, mistress of womankind, divine woman, Isis, lady of the sistrum,"
+      },
+      "source_detail": {
+        "plate_line": "l. 26",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 6,
+      "transliteration": null,
+      "translation": {
+        "de": "Hathor, Herrin von An, Herrin aller Götter, ..., Herrin der Doppelfeder, Herrin des Men-Amulets,",
+        "en": "Hathor, lady of An, lady of all the gods, ..., lady of the double plume, lady of the Menat amulet,"
+      },
+      "source_detail": {
+        "plate_line": "l. 27",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 7,
+      "transliteration": null,
+      "translation": {
+        "de": "die weibliche Sonne, Vorsteherin des Tanzes, Herrin des Gesanges und der Liebe, An-yau.",
+        "en": "the female sun, leader of the dance, lady of song and of love, An-yau."
+      },
+      "source_detail": {
+        "plate_line": "l. 28",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 8,
+      "transliteration": null,
+      "translation": {
+        "de": "Namen der Feste dieser Göttin: Monat Thoth, Tag 1, das Fest der Bekleidung; Monat Thoth, Tag 20, das Techufest, es wird wiederholt die Techufeier dieser Göttin mit ihrer Fahrt;",
+        "en": "Names of the festivals of this goddess: month Thoth, day 1, the festival of clothing; month Thoth, day 20, the Tekhu festival, the Tekhu celebration of this goddess is repeated with her procession by boat;"
+      },
+      "source_detail": {
+        "plate_line": "l. 29",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 9,
+      "transliteration": null,
+      "translation": {
+        "de": "Monat Athyr, Tag 1; Monat Tybi (Tag 19), die Panegyrie der Fahrt dieser Göttin; Monat Pharmuthi (Tag 3), das Fest der Gottesgeburt; Monat Epiphi, Tag 1, das Fest dieser Göttin.",
+        "en": "month Athyr, day 1; month Tybi (day 19), the festival of the voyage of this goddess; month Pharmuthi (day 3), the festival of the god's birth; month Epiphi, day 1, the festival of this goddess."
+      },
+      "source_detail": {
+        "plate_line": "l. 30",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 10,
+      "transliteration": null,
+      "translation": {
+        "de": "Am 1. Mesori, dem Neumondfeste findet statt die Erscheinung dieser Göttin, der Herrin von Dendera in Edfu. Beim Machen die Fahrt zu ihrem gnädigen Herrn wird veranstaltet ein grosses Opfer an Ochsen, Gänsen und allerlei guten und reinen Dingen auf den Namen dieser Göttin beim Eintreten dieser Göttin in ihr Schiff („Grösse der Liebe“ ist sein Name) von Seiten der Propheten und grossen Priester der Hathor, Herrin von Dendera,",
+        "en": "On the 1st of Mesori, the new-moon festival, this goddess, the lady of Dendera, appears in Edfu. When the voyage to her gracious lord is made, a great offering of oxen, geese and all good and pure things is made in the name of this goddess as she enters her ship ('Greatness of Love' is its name), by the prophets and great priests of Hathor, lady of Dendera;"
+      },
+      "source_detail": {
+        "plate_line": "l. 31-33",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 11,
+      "transliteration": null,
+      "translation": {
+        "de": "die göttliche Dienerschaft befindet sich vor dieser Göttin, der Schreiber der göttlichen Rolle, voran dieser Göttin veranstaltet für sie alles das, was angeordnet für die 5tägige Festlichkeit von Seiten des Königs Thutmosis III, der es gethan hat zu seinem bleibenden Andenken für seine Mutter Hathor, Herrin von Dendera, Tochter der Sonne, Herrin des Himmels, Gebieterin aller Götter.",
+        "en": "the divine servants are before this goddess; the scribe of the divine book-roll goes ahead of her, carrying out for her everything ordained for the five-day festival by King Thutmose III, who did it as his lasting monument for his mother Hathor, lady of Dendera, daughter of the sun, lady of heaven, mistress of all the gods."
+      },
+      "source_detail": {
+        "plate_line": "l. 34-36",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 12,
+      "transliteration": "gmj.t snṯ wr n Jwn.t m sš jsj (?) ḥr dḥr (?) n [...] m hꜣw Šmsw-Ḥr (?) gmj.t m-ẖnw jnb n ḏbt n pr-rsj m rk nswt-bjtj nb-tꜣwj (Mrj-Rꜥ) zꜣ-Rꜥ nb-ḫꜥw (Ppj) dj ꜥnḫ ḏd wꜥb (?) nb mj Rꜥ ḏt",
+      "translation": {
+        "de": "Gefunden wurde die Gründung die grosse von Dendera in einem alten Schriftstücke, geschrieben auf die Haut des ...... Thieres zur Zeit der Nachfolger (?) des Horus; aufgefunden (wurde das Dokument) im Innern einer Ziegelmauer des Südhauses zur Zeit des Königs von Ober- und Unterägypten, des Herrn der beiden Länder [Rameri], des Sohnes der Sonne, des Herrn der Diademe [Phiops], der da begabt mit jedem festen und reinen Leben, gleich der Sonne ewiglich.",
+        "en": "The great foundation of Dendera was found in an old document, written on the hide of a [...] animal, from the time of the Followers (?) of Horus; (the document) was found inside a brick wall of the South House in the time of the King of Upper and Lower Egypt, lord of the two lands, [Meryre], son of the sun, lord of diadems, [Pepi], endowed with all stable and pure life like the sun forever."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XV l. 36-40",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "duemichen_transcription": "kem.ut senti ur em An ... her ubech ent ... em hau en [Schemsu-Hor ?] her kemut em chen en aneb en teb en res-pa em rek suten chab [Ra-meri] sira neb chau [Pipi] ti anch tet uab neb ra ma teta",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true,
+        "transliteration_note": "draft modern transliteration converted from Dümichen's 1865 printed transcription, not read from the plate; (?) = uncertain"
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 13,
+      "transliteration": "pꜣ snṯ wr n Jwn.t smꜣwj mnw jr.n nswt-bjtj nb-tꜣwj (Mn-ḫpr-Rꜥ) zꜣ-Rꜥ nb-ḫꜥw (Ḏḥwtj-ms) m-ḫt gmj.t m sšw jsw m hꜣw nswt (Ḫwfw)",
+      "translation": {
+        "de": "Die Gründung, die grosse von Dendera, eine monumentale Wiederherstellung, veranstaltet von dem Könige Ober- und Unterägyptens, Herrn der beiden Länder (Ra-men-cheper) Sohn der Sonne, Herr der Diademe (Taut mes), nachdem wie es aufgefunden worden in Schriften alten aus der Zeit des Königs (Chufu).",
+        "en": "The great foundation of Dendera: a restoration of the monument made by the King of Upper and Lower Egypt, lord of the two lands, (Menkheperre), son of the sun, lord of diadems, (Thutmose), after it was found in ancient writings from the time of King (Khufu)."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XVI l. a-b",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "duemichen_transcription": "pa senti ur em an su-ma mennu aren sten chab neb ta-ti ra men cheper ra si neb chau taut mes em chet k'em.ut em sa.u as.u em hau en suten Chufu",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true,
+        "transliteration_note": "draft modern transliteration converted from Dümichen's 1865 printed transcription, not read from the plate; (?) = uncertain"
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 14,
+      "transliteration": null,
+      "translation": {
+        "de": "Namen dieses Ortes: Hauptstadt des 6ten Ober-Aegyptischen Nomos, An, Tarer.",
+        "en": "Names of this place: capital of the 6th Upper Egyptian nome, An, Tarer."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XIX l. 1-4 (summary)",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 15,
+      "transliteration": null,
+      "translation": {
+        "de": "Namen der göttlichen Hallen: das Sesch-Haus, das Ahi-Haus und das Schlangenhaus.",
+        "en": "Names of the divine halls: the Sesh House, the Ahi House and the Serpent House."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XIX",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 16,
+      "transliteration": null,
+      "translation": {
+        "de": "Namen der Götter: Hathor, die Grosse, die Herrin von An; Horus von Edfu, der grosse Gott, der Herr des Himmels; die Hathor mit dem Kopfe der Sonnenscheibe (?); Horus Samta-ti, der grosse Gott in An; Ahi der grosse Sohn der Hathor; Horus ..... Sohn der Hathor; Hathor, die Wesenheit der Sonne auf dem Grosssitze; Horus Samta-ti, der grosse Gott, der Herr von Chat; Osiris-Unnofru der Gerechtgesprochene, der grosse Gott in An; Isis, die grosse Gottesmutter.",
+        "en": "Names of the gods: Hathor, the Great, lady of An; Horus of Edfu, the great god, lord of heaven; Hathor with the head of the sun disc (?); Horus Sematawy, the great god in An; Ihy, the great son of Hathor; Horus ..., son of Hathor; Hathor, the essence of the sun on the great seat; Horus Sematawy, the great god, lord of Khat; Osiris-Wennefer, the justified, the great god in An; Isis, the great mother of the god."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XIX",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 17,
+      "transliteration": null,
+      "translation": {
+        "de": "Namen der Priester: Hunnu, Sahotephens und Samar.",
+        "en": "Names of the priests: Hunnu, Sahotephens and Samar."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XIX",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 18,
+      "transliteration": null,
+      "translation": {
+        "de": "Namen der Priesterinnen: die Se-herin und die grosse Amme.",
+        "en": "Names of the priestesses: the Se-herit (?) and the great nurse."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XIX",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 19,
+      "transliteration": null,
+      "translation": {
+        "de": "Name des heiligen Raumes: Chat. Name des heiligen Sees: See der Ueberschwemmung.",
+        "en": "Name of the sacred room: Khat. Name of the sacred lake: Lake of the Inundation."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XIX",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 20,
+      "transliteration": null,
+      "translation": {
+        "de": "Namen der heiligen Haine: der Perseahain, der Palmenhain (?), der Weidenhain. Name des heiligen Baumes: der Feigenbaum.",
+        "en": "Names of the sacred groves: the persea grove, the palm grove (?), the willow grove. Name of the sacred tree: the fig tree."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XIX",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 21,
+      "transliteration": null,
+      "translation": {
+        "de": "Name des Fisches: der Annu-Fisch, der da lebt von ..... Name der Schlangen: Sohn der Hathor, .....",
+        "en": "Name of the fish: the Annu fish, which lives on ... Name of the serpents: Son of Hathor, ..."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XIX",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 22,
+      "transliteration": null,
+      "translation": {
+        "de": "Namen der Barken: Herrin der Liebe, Erleuchterin der Welt. Name des Festes: Monat Athyr, Tag 1. Name des Uu: Scheta. Name des Hunu: Uat-ur.",
+        "en": "Names of the barks: Lady of Love, Illuminator of the World. Name of the festival: month Athyr, day 1. Name of the Uu: Sheta. Name of the Hunu: Wadj-wer."
+      },
+      "source_detail": {
+        "plate_line": "Taf. XIX",
+        "source": "Dümichen 1865, pp. 15-19, 40-42",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 23,
+      "transliteration": null,
+      "translation": {
+        "de": "An",
+        "en": "An (Iunet)"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 1",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 24,
+      "transliteration": null,
+      "translation": {
+        "de": "Uar-cheper-chab",
+        "en": "Uar-cheper-chab"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 2",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 25,
+      "transliteration": null,
+      "translation": {
+        "de": "das An der Göttin",
+        "en": "the An of the goddess"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 3",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 26,
+      "transliteration": null,
+      "translation": {
+        "de": "die Metropole des Tentyritischen Nomos",
+        "en": "the metropolis of the Tentyrite nome"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 4",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 27,
+      "transliteration": null,
+      "translation": {
+        "de": "Ta-rer",
+        "en": "Ta-rer"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 5",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 28,
+      "transliteration": null,
+      "translation": {
+        "de": "die zum zweitenmal Geschaffene",
+        "en": "the one created a second time"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 6",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 29,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des Samta-ti",
+        "en": "the House of Sematawy"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 7",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 30,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des Ahi",
+        "en": "the House of Ihy"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 8",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 31,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Sata-Schlange",
+        "en": "the House of the Sata serpent"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 9",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 32,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Reinigung",
+        "en": "the House of Purification"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 10",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 33,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des Men-Amulets",
+        "en": "the House of the Menat amulet"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 11",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 34,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des musikalischen Instrumentes Seschesch",
+        "en": "the House of the sesheshet instrument (sistrum)"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 12",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 35,
+      "transliteration": null,
+      "translation": {
+        "de": "[...] des Jubels",
+        "en": "[...] of jubilation"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 13",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 36,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Ament",
+        "en": "the House of Ament"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 14",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 37,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Nut",
+        "en": "the House of Nut"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 15",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 38,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der beiden Löwen (des Geschwisterpaares Schu und Tefnut)",
+        "en": "the House of the Two Lions (the sibling pair Shu and Tefnut)"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 16",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 39,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Göttin",
+        "en": "the House of the Goddess"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 17",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 40,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Chut, die da ist von Anbeginn",
+        "en": "the House of Khut, who has been since the beginning"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 18",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 41,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus, Ahi wird erfreut in ihm",
+        "en": "the house in which Ihy rejoices"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 19",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 42,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus, Nub wird erfreut in ihm",
+        "en": "the house in which Nub (the Golden One) rejoices"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 20",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 43,
+      "transliteration": null,
+      "translation": {
+        "de": "das grosse Gotteshaus der Göttin Isis",
+        "en": "the great god's house of the goddess Isis"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 21",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 44,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der erleuchteten Seelen",
+        "en": "the House of the Illuminated Souls"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 22",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 45,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz der Herzensfreude",
+        "en": "the Seat of Heart's Joy"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 23",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 46,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz der Sättigung des Sonnengottes Ra",
+        "en": "the Seat of the Satiation of the sun god Ra"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 24",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 47,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz der Herzensliebe des Ra",
+        "en": "the Seat of the Heart's Love of Ra"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 25",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 48,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, es verlangt nach ihm Hathor",
+        "en": "the seat that Hathor longs for"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 26",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 49,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, in dessen Herzen Hathor sich befindet",
+        "en": "the seat in whose heart Hathor dwells"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 27",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 50,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz der Freude",
+        "en": "the Seat of Joy"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 28",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 51,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Jubels",
+        "en": "the Seat of Jubilation"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 29",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 52,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist der Sitz der Mutter des Horus",
+        "en": "this is the Seat of the Mother of Horus"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 30",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 53,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist der Sitz der königlichen Gemahlin",
+        "en": "this is the Seat of the Royal Wife"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 31",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 54,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist der Sitz der Göttin von reinem Golde",
+        "en": "this is the Seat of the Goddess of Pure Gold"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 32",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 55,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, wo erscheint die Gestalt der grossen Hathor, der Herrin der beiden Welten",
+        "en": "the seat where the form of the great Hathor, lady of the two worlds, appears"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 33",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 56,
+      "transliteration": null,
+      "translation": {
+        "de": "die Osiris-, Horus-, Isis- und Nephtis-Vereinigung im Süden, Norden, Westen und Osten dieses Hauses",
+        "en": "the union of Osiris, Horus, Isis and Nephthys in the south, north, west and east of this house"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 34",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 57,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Kampfes des Horus vor seinem Vater Osiris",
+        "en": "the Seat of the Combat of Horus before his father Osiris"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 35",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 58,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Kampfes des Horus vor seiner Mutter Isis",
+        "en": "the Seat of the Combat of Horus before his mother Isis"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 36",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 59,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, wo man giebt dem Horus das Königreich über Süd und Nord",
+        "en": "the seat where kingship over South and North is given to Horus"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 37",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 60,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz der Freude aller Götter",
+        "en": "the Seat of the Joy of All the Gods"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 38",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 61,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Reichthums zahlreicher Vasen, um zu bestatten das Unreine des Seth-Typhon in ihm",
+        "en": "the Seat of the Wealth of Many Vessels, to bury the impurity of Seth-Typhon in it"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 39",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 62,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Stellens den Seth auf den Ort der Niedrigkeit",
+        "en": "the Seat of Setting Seth in the Place of Lowliness"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 40",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 63,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Zerschneidens in der Mitte diese Göttin",
+        "en": "the Seat of the Cutting in the Middle of this Goddess"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 41",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 64,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz der Freude aller Göttinnen",
+        "en": "the Seat of the Joy of All the Goddesses"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 42",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 65,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, benannt nach dem Gotte Thot wegen des Machens Erfreutsein an ihm",
+        "en": "the seat named after the god Thoth for making rejoicing in it"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 43",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 66,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, wo die beiden Schwestern tragen die Brüder in dem Naos auf ihren Köpfen",
+        "en": "the seat where the two sisters carry the brothers in the naos on their heads"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 44",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 67,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Heraustretens der Hathor mit dem Signum",
+        "en": "the Seat of the Coming Forth of Hathor with the Emblem (menat)"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 45",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 68,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist der Sitz der Isis in ihrer Freude",
+        "en": "this is the Seat of Isis in her Joy"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 46",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 69,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, man führt heraus das Signum der Hathor an ihm",
+        "en": "the seat at which the emblem of Hathor is brought out"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 47",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 70,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Errichtens der Hathor ein Denkmal zur Zufriedenheit der Götter",
+        "en": "the Seat of Raising a Monument to Hathor for the Satisfaction of the Gods"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 48",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 71,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, es ist begonnen worden ein Monument für die Herrin von Dendera am ihm",
+        "en": "the seat at which a monument for the lady of Dendera was begun"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 49",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 72,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Flammen- und Speiseopfers",
+        "en": "the Seat of the Burnt and Food Offering"
+      },
+      "source_detail": {
+        "plate_line": "Taf. V, name no. 50",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 73,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Glanzes der Vasen",
+        "en": "the Seat of the Splendour of the Vessels"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 51",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 74,
+      "transliteration": null,
+      "translation": {
+        "de": "der vollkommene Sitz der Hathor",
+        "en": "the perfect Seat of Hathor"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 52",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 75,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz der Gebieterin des Lebens",
+        "en": "the Seat of the Mistress of Life"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 53",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 76,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz der Schönen unter den Göttern und Göttinnen",
+        "en": "the Seat of the Beautiful One among the Gods and Goddesses"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 54",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 77,
+      "transliteration": null,
+      "translation": {
+        "de": "das Isis-Haus",
+        "en": "the Isis House"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 55",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 78,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Isis, der Herrin der Göttinnen",
+        "en": "the House of Isis, Lady of the Goddesses"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 56",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 79,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Glänzenden",
+        "en": "the House of the Shining One"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 57",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 80,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Schönäugigen",
+        "en": "the House of the Beautiful-Eyed One"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 58",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 81,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des Horus",
+        "en": "the House of Horus"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 59",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 82,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Anmuth des Antlitzes",
+        "en": "the House of the Grace of the Face"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 60",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 83,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Huld des Antlitzes",
+        "en": "the House of the Favour of the Face"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 61",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 84,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Einzigen",
+        "en": "the House of the Unique One"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 62",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 85,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Jugendlichen",
+        "en": "the House of the Youthful One"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 63",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 86,
+      "transliteration": null,
+      "translation": {
+        "de": "das Geburtshaus der Nut",
+        "en": "the Birth House of Nut"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 64",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 87,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Fröhlichen",
+        "en": "the House of the Joyful One"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 65",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 88,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Goldenen",
+        "en": "the House of the Golden One"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 66",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 89,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des Schu und der Tefnut",
+        "en": "the House of Shu and Tefnut"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 67",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 90,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des göttlichen Sperbers",
+        "en": "the House of the Divine Falcon"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 68",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 91,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Herrschaft der Sonne",
+        "en": "the House of the Dominion of the Sun"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 69",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 92,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Rache des Horus an der Apophis-Schlange",
+        "en": "the House of the Vengeance of Horus on the Apophis serpent"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 70",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 93,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Rache des Horus am Typhon",
+        "en": "the House of the Vengeance of Horus on Typhon"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 71",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 94,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Zeugung ihrer Majestät",
+        "en": "the House of the Begetting of Her Majesty"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 72",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 95,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Hathoren",
+        "en": "the House of the Hathors"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 73",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 96,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus, wo getragen wird Ra von seinen Kindern",
+        "en": "the house where Ra is carried by his children"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 74",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 97,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus, wo getragen wird Osiris von seiner Gattin",
+        "en": "the house where Osiris is carried by his wife"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 75",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 98,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist das Haus der Protektion der Sonne",
+        "en": "this is the House of the Protection of the Sun"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 76",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 99,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus, schön ist seine Front",
+        "en": "the house whose front is beautiful"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 77",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 100,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist das Haus der Protektion des Osiris",
+        "en": "this is the House of the Protection of Osiris"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 78",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 101,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des Begräbnisses des Osiris",
+        "en": "the House of the Burial of Osiris"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 79",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 102,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Rache der Nut am Schu",
+        "en": "the House of the Vengeance of Nut on Shu"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 80",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 103,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist das Haus, wo man kennt den Gatten der Isis",
+        "en": "this is the house where the husband of Isis is known"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 81",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 104,
+      "transliteration": null,
+      "translation": {
+        "de": "die Dreiheit des Grosshauses, des Flammenhauses und des Wasserhauses",
+        "en": "the triad of the Great House, the Flame House and the Water House"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 82",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 105,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Flamme des Atum",
+        "en": "the House of the Flame of Atum"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 83",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 106,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des göttlichen Meisters in Chat",
+        "en": "the House of the Divine Master in Khat"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 84",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 107,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Rechtfertigung in dem breiten Saal",
+        "en": "the House of Justification in the Broad Hall"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 85",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 108,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus, wo Horus Besitz genommen hat, von der weissen Krone",
+        "en": "the house where Horus has taken possession of the White Crown"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 86",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 109,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus, wo Horus Besitz genommen hat, von der rothen Krone",
+        "en": "the house where Horus has taken possession of the Red Crown"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 87",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 110,
+      "transliteration": null,
+      "translation": {
+        "de": "das Cha-Haus ihrer Majestät",
+        "en": "the Cha-House (office, measuring house) of Her Majesty"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 88",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 111,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Buto",
+        "en": "the House of Buto (Wadjet)"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 89",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 112,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist das Haus, wo getragen wird die Mut von den Göttern",
+        "en": "this is the house where Mut is carried by the gods"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 90",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 113,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist das Palmenhaus der Göttin",
+        "en": "this is the Palm House of the goddess"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 91",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 114,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Ewigkeit",
+        "en": "the House of Eternity"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 92",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 115,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Liebe der Tefnut",
+        "en": "the House of the Love of Tefnut"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 93",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 116,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus, wo man beweint den Osiris",
+        "en": "the house where Osiris is mourned"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 94",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 117,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist das Haus des Tempels des Horus von Süd und Nord",
+        "en": "this is the House of the Temple of Horus of South and North"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 95",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 118,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der ...... des Osiris",
+        "en": "the House of the [...] of Osiris"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 96",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 119,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der im Sonnenberg sich Befindenden",
+        "en": "the House of Those Who Are in the Sun-Mountain"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 97",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 120,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Klage der Kinder des Seb",
+        "en": "the House of the Lament of the Children of Geb"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VI, name no. 98",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 121,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Bast",
+        "en": "the House of Bastet"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 99",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 122,
+      "transliteration": null,
+      "translation": {
+        "de": "die Häuser, es wird gemacht der Thron daselbst",
+        "en": "the houses where the throne is made"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 100",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 123,
+      "transliteration": null,
+      "translation": {
+        "de": "das An der Nut",
+        "en": "the An of Nut"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 101",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 124,
+      "transliteration": null,
+      "translation": {
+        "de": "das An des Ptah",
+        "en": "the An of Ptah"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 102",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 125,
+      "transliteration": null,
+      "translation": {
+        "de": "das An der Göttin",
+        "en": "the An of the goddess"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 103",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 126,
+      "transliteration": null,
+      "translation": {
+        "de": "das An dieses Nomos",
+        "en": "the An of this nome"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 104",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 127,
+      "transliteration": null,
+      "translation": {
+        "de": "die Welt der Erhabenheit",
+        "en": "the World of Exaltation"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 105",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 128,
+      "transliteration": null,
+      "translation": {
+        "de": "die Welt der Vollkommenheit",
+        "en": "the World of Perfection"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 106",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 129,
+      "transliteration": null,
+      "translation": {
+        "de": "die Grösse des Mysteriums",
+        "en": "the Greatness of the Mystery"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 107",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 130,
+      "transliteration": null,
+      "translation": {
+        "de": "die Fülle der beiden Welten",
+        "en": "the Fullness of the Two Worlds"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 108",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 131,
+      "transliteration": null,
+      "translation": {
+        "de": "das Erscheinen im Hause der Tefnut",
+        "en": "the Appearance in the House of Tefnut"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 109",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 132,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz des Immerdar",
+        "en": "the Seat of Forever"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 110",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 133,
+      "transliteration": null,
+      "translation": {
+        "de": "das geweihte Holz",
+        "en": "the consecrated wood"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 111",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 134,
+      "transliteration": null,
+      "translation": {
+        "de": "der Ort des Ra und des Horus",
+        "en": "the Place of Ra and of Horus"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 112",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 135,
+      "transliteration": null,
+      "translation": {
+        "de": "dies ist der breite Saal der Erleuchteten",
+        "en": "this is the Broad Hall of the Illuminated"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 113",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 136,
+      "transliteration": null,
+      "translation": {
+        "de": "der Ort des Richtplatzes der Verbrecher",
+        "en": "the Place of the Execution of Criminals"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 114",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 137,
+      "transliteration": null,
+      "translation": {
+        "de": "das Heiligthum, wo Horus sich befindet hoch auf seinem Gerüste",
+        "en": "the sanctuary where Horus is, high on his scaffold"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 115",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 138,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, wo Menschenblut fliesset",
+        "en": "the seat where human blood flows"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 116",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 139,
+      "transliteration": null,
+      "translation": {
+        "de": "dieser Nomos zur Freude jeder Mutter immerdar",
+        "en": "this nome, the joy of every mother forever"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 117",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 140,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz der angenehmen Herzensstimmung des Osiris-Unnofer des gerecht Gesprochenen",
+        "en": "the Seat of the Pleasant Mood of Osiris-Wennefer, the justified"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 118",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 141,
+      "transliteration": null,
+      "translation": {
+        "de": "die Hypogee",
+        "en": "the Hypogeum"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 119",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 142,
+      "transliteration": null,
+      "translation": {
+        "de": "Ta-rer",
+        "en": "Ta-rer"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 120",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 143,
+      "transliteration": null,
+      "translation": {
+        "de": "das Bassin des Lebens",
+        "en": "the Basin of Life"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 121",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 144,
+      "transliteration": null,
+      "translation": {
+        "de": "die Anmuth des Lebens",
+        "en": "the Grace of Life"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 122",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 145,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der Erinnerung",
+        "en": "the House of Remembrance"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 123",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 146,
+      "transliteration": null,
+      "translation": {
+        "de": "der breite Saal, der da ist zum Schutz des Südens von Herher",
+        "en": "the Broad Hall that is for the protection of the South of Herher"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 124",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 147,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des Weinens und Lachens des Sonnengottes Ra",
+        "en": "the House of the Weeping and Laughing of the sun god Ra"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 125",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 148,
+      "transliteration": null,
+      "translation": {
+        "de": "das Geburtshaus",
+        "en": "the Birth House"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 126",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 149,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus, es hat geboren die Göttin Rech.t in ihm",
+        "en": "the house in which the goddess Rekhet gave birth"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 127",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 150,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus des Herrn der Doppelfeder von Chat",
+        "en": "the House of the Lord of the Double Plume of Khat"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 128",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 151,
+      "transliteration": null,
+      "translation": {
+        "de": "das Süd- und Nordhaus der Suben und Buto",
+        "en": "the South and North House of Nekhbet and Buto"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 129",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 152,
+      "transliteration": null,
+      "translation": {
+        "de": "das Buto-Haus, dies ist der Sitz der Isis, sie glänzt an ihm als dem reichsten aller Sitze auf Erden",
+        "en": "the Buto House: this is the seat of Isis, she shines in it as the richest of all seats on earth"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 130",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 153,
+      "transliteration": null,
+      "translation": {
+        "de": "das Haus der jungen Kräuter der Göttin",
+        "en": "the House of the Young Herbs of the Goddess"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 131",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 154,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, aus welchem man heraustritt nach der göttlichen Halle des Seschhauses",
+        "en": "the seat from which one goes out to the divine hall of the Sesh House"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 132",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 155,
+      "transliteration": null,
+      "translation": {
+        "de": "der da glänzt in seiner Grösse als der reichste aller Sitze auf Erden",
+        "en": "the one that shines in its greatness as the richest of all seats on earth"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 133",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 156,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, wo sich theilen in die Herrschaft die beiden Sperber",
+        "en": "the seat where the two falcons divide the rule"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 134",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 157,
+      "transliteration": null,
+      "translation": {
+        "de": "der Sitz, wo die Götter einbalsamiren den Osiris an Stelle des Hapi",
+        "en": "the seat where the gods embalm Osiris in place of Hapi"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 135",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    },
+    {
+      "sequence_num": 158,
+      "transliteration": null,
+      "translation": {
+        "de": "das grosse Heiligthum der Göttin Isis, strahlend erscheint sie in ihm; es ist dies der reichste aller Nomen",
+        "en": "the great sanctuary of the goddess Isis, she appears radiant in it; this is the richest of all nomes"
+      },
+      "source_detail": {
+        "plate_line": "Taf. VII, name no. 136",
+        "list": "Namensverzeichniss dieses Ortes (136 names)",
+        "source": "Dümichen 1865, pp. 15-19",
+        "en_translation": {
+          "source": "ml_draft",
+          "confidence": "low",
+          "needs_review": true,
+          "model": "claude-opus-5-5",
+          "method": "claude_de_to_en"
+        },
+        "needs_review": true
+      },
+      "confidence": "ml_draft"
+    }
+  ]
+}

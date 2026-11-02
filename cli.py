@@ -846,6 +846,14 @@ def resolve(system, ext_id, shelfmark, pretty):
 # aegyptus import
 # ---------------------------------------------------------------------------
 
+# Dependency order: ORAEC first (canonical TLA IDs), Trismegistos last.
+IMPORT_ORDER = [
+    "oraec", "aes", "tla-hf", "nederhof", "ramses", "papyri-info",
+    "aed-dict", "aed-tei", "coptic-scriptorium", "met-api",
+    "nederhof-philologeg", "trismegistos",
+]
+
+
 @cli.command(
     name="import",
     help="""Run corpus importers.
@@ -861,8 +869,15 @@ VALID --source VALUES:
   nederhof      Nederhof Middle Egyptian texts
   ramses        RAMSES Late Egyptian corpus
   papyri-info   Papyri.info Egyptian texts
-  all           Run all importers in dependency order:
-                oraec -> aes -> tla-hf -> nederhof -> ramses -> papyri-info
+  aed-dict      AED dictionary (lemmata)
+  aed-tei       AED-TEI corpus (hieroglyphic layers, German translations)
+  coptic-scriptorium  Coptic Scriptorium CoNLL-U texts
+  met-api       Metropolitan Museum objects (slow: rate-limited API)
+  nederhof-philologeg PhilologEg St Andrews corpus (JAR placed by hand)
+  trismegistos  Trismegistos concordance enrichment (run last)
+  all           Run all importers in dependency order (the list above).
+                A source whose data is missing is reported as an error
+                and the run continues with the next one.
 
 Use --status to see what has been imported without running anything.
 
@@ -885,7 +900,7 @@ OUTPUT FORMAT (JSON object):
 
 EXIT CODES:
   0  Import successful
-  1  Error during import
+  1  Error during import (with --source all: any importer failed)
 
 EXAMPLES:
   aegyptus import --source oraec
@@ -895,8 +910,7 @@ EXAMPLES:
 """
 )
 @click.option("--source", default=None,
-              type=click.Choice(["oraec", "aes", "tla-hf", "nederhof", "ramses", "papyri-info", "all"],
-                                case_sensitive=False),
+              type=click.Choice(IMPORT_ORDER + ["all"], case_sensitive=False),
               help="Which importer to run (required unless --status).")
 @click.option("--status", "show_status", is_flag=True, help="Show import counts without running anything.")
 @click.option("--pretty", is_flag=True, help="Pretty-print JSON output.")
@@ -968,13 +982,6 @@ def import_cmd(source, show_status, pretty):
 
         session.close()
 
-        # Map source names to importer modules
-        import_order = [
-            "oraec", "aes", "tla-hf", "nederhof", "ramses", "papyri-info",
-            "aed-dict", "aed-tei", "coptic-scriptorium", "met-api",
-            "nederhof-philologeg", "trismegistos",
-        ]
-
         def run_importer(src):
             """Run a single importer by name. Returns stats dict."""
             logger.setLevel(logging.INFO)
@@ -1020,13 +1027,22 @@ def import_cmd(source, show_status, pretty):
 
         if source == "all":
             results = []
-            for src in import_order:
+            for src in IMPORT_ORDER:
                 try:
                     r = run_importer(src)
                     results.append(r)
+                # Importers sys.exit(1) on missing data; keep going with the rest.
+                except SystemExit as e:
+                    if e.code in (0, None):
+                        results.append({"source": src, "status": "complete"})
+                    else:
+                        results.append({"source": src, "status": "error",
+                                        "error": f"exited with status {e.code}, see log"})
                 except Exception as e:
                     results.append({"source": src, "status": "error", "error": str(e)})
             _output({"importers": results}, pretty)
+            if any(r["status"] == "error" for r in results):
+                sys.exit(1)
         else:
             try:
                 result = run_importer(source)

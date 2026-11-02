@@ -21,8 +21,9 @@ Eleven structured data importers feed the central store, plus one concordance en
 
 All importers are **idempotent**. Re-running produces no duplicates.
 
-Run via CLI:
+Run via CLI (after `./scripts/bootstrap.sh`, which fetches the upstream data):
 ```bash
+aegyptus import --source all   # every importer above, in this order
 aegyptus import --source <name>
 aegyptus import --status       # counts per source
 ```

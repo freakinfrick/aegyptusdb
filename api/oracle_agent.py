@@ -33,7 +33,8 @@ MAX_STEPS = 6  # hard cap on tool-call rounds per user turn
 # Build a dedicated client here so the agent can use tool-calling without
 # affecting the existing call_hermes() JSON-mode path.
 _client = OpenAI(
-    api_key=os.environ.get("NOUS_API_KEY", ""),
+    # Placeholder keeps the API importable without a key; model calls then fail with 401.
+    api_key=os.environ.get("NOUS_API_KEY") or "unset",
     base_url=NOUS_BASE_URL,
 )
 

@@ -9,7 +9,7 @@ description = "Open corpus of ancient Egyptian texts"
 requires-python = ">=3.11"
 license = {text = "MIT"}
 dependencies = [
-    "sqlalchemy>=2.0",
+    "sqlalchemy>=2.0,<2.1",  # 2.1 maps postgresql:// to psycopg 3; we ship psycopg2
     "alembic>=1.13",
     "psycopg2-binary>=2.9",
     "pydantic>=2.0",
@@ -21,6 +21,12 @@ dependencies = [
     "redis>=5.0",
     "minio>=7.2",
     "huggingface_hub>=0.21",
+    "datasets>=2.18",  # tla-hf importer
+    # API + resolution engine (python -m api)
+    "sse-starlette>=2.0",
+    "openai>=1.0",
+    "rapidfuzz>=3.0",
+    "edge-tts>=6.1",
     "click>=8.1",
     "langdetect>=1.0",
     "python-dotenv>=1.0",

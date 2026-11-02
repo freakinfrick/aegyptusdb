@@ -118,6 +118,12 @@ class ConnectorStats:
         }
 
 
+# Collections to scan. idp.data renamed DDB_EpiDoc_XML to DDbDP; the label
+# stays DDB_EpiDoc_XML so records match corpora built before the rename.
+COLLECTIONS = ["DDB_EpiDoc_XML", "DCLP", "HGV_meta_EpiDoc", "APIS"]
+COLLECTION_DIRS = {"DDB_EpiDoc_XML": ["DDbDP", "DDB_EpiDoc_XML"]}
+
+
 def clone_idp_data(clone_dir: str = DEFAULT_CLONE_DIR) -> str:
     """Shallow-clone the idp.data GitHub repo.
 
@@ -165,12 +171,14 @@ def scan_for_egyptian_texts(clone_dir: str = DEFAULT_CLONE_DIR) -> list[Path]:
     if not clone_path.exists():
         raise FileNotFoundError(f"idp.data not found at {clone_dir}. Run clone_idp_data() first.")
 
-    # Collections to scan
-    collections = ["DDB_EpiDoc_XML", "DCLP", "HGV_meta_EpiDoc", "APIS"]
     candidates = []
 
-    for collection in collections:
-        collection_path = clone_path / collection
+    for collection in COLLECTIONS:
+        collection_path = next(
+            (clone_path / d for d in COLLECTION_DIRS.get(collection, [collection])
+             if (clone_path / d).exists()),
+            clone_path / collection,
+        )
         if not collection_path.exists():
             logger.warning("Collection directory not found: %s", collection_path)
             continue
@@ -229,8 +237,8 @@ def parse_epidoc_xml(filepath: Path) -> PapyriRecord | None:
     # Determine collection from path
     parts = filepath.parts
     collection = "unknown"
-    for coll in ["DDB_EpiDoc_XML", "DCLP", "HGV_meta_EpiDoc", "APIS"]:
-        if coll in parts:
+    for coll in COLLECTIONS:
+        if any(d in parts for d in COLLECTION_DIRS.get(coll, [coll])):
             collection = coll
             break
 

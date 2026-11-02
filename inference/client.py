@@ -36,7 +36,8 @@ def _load_env():
 _load_env()
 
 _client = OpenAI(
-    api_key=os.environ.get("NOUS_API_KEY", ""),
+    # Placeholder keeps the API importable without a key; model calls then fail with 401.
+    api_key=os.environ.get("NOUS_API_KEY") or "unset",
     base_url=NOUS_BASE_URL,
 )
 

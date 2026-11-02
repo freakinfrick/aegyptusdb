@@ -166,34 +166,35 @@ Both texts are absent from all other digital sources and were ingested to suppor
 
 ## Quickstart
 
+Needs Python 3.11+, Git, Docker (with Compose), `curl` and `unzip`. Plan for about 10 GB of disk: ~7 GB of upstream data in `data/upstream/` (papyri.info's clone is 3 GB of it) and ~2 GB of database. If `python3` is older than 3.11, run bootstrap as `PYTHON=python3.11 ./scripts/bootstrap.sh`.
+
 ```bash
-# 1. Start PostgreSQL (port 5434) and MinIO
-docker compose --profile dev up -d
+git clone https://github.com/freakinfrick/aegyptusdb.git && cd aegyptusdb
 
-# 2. Run migrations
-alembic upgrade head
+# 1. Bootstrap: venv + install, fetch upstream data into data/upstream/,
+#    start PostgreSQL (port 5434) and MinIO, run migrations
+./scripts/bootstrap.sh
 
-# 3. Run importers (order matters: ORAEC before AES)
-aegyptus import --source oraec
-aegyptus import --source aes
-aegyptus import --source tla-hf
-aegyptus import --source nederhof
-aegyptus import --source ramses
-aegyptus import --source papyri-info
-aegyptus import --source aed-dict
-aegyptus import --source aed-tei
-aegyptus import --source coptic-scriptorium
-aegyptus import --source nederhof-philologeg
-aegyptus import --source trismegistos   # concordance enrichment, run last
+# 2. Build the corpus: every importer, in dependency order (ORAEC first,
+#    Trismegistos last). Safe to re-run; importers are idempotent.
+source .venv/bin/activate
+aegyptus import --source all
 
-# 4. Check status
-aegyptus import --status
+# 3. Check what landed
+aegyptus import --status --pretty
+```
 
-# 5. Start the API (port 8000)
-python -m api
+Bootstrap takes about 5 minutes. The file-based importers take about 15 minutes together. Two sources are paced by their public APIs and dominate the run: `met-api` (~28k objects, several hours) and `trismegistos` (~3 hours at 1 request/s).
 
-# 6. Manual ingest
-python scripts/ingest_manual.py data/manual/my_text.json
+`--source all` reports each importer's result as JSON, keeps going past a source whose data is missing, and exits 1 if any failed. Re-run a single source with `aegyptus import --source <name>`; the names and order are in [docs/IMPORTERS.md](docs/IMPORTERS.md).
+
+One source is not fetched automatically: the PhilologEg corpus ships inside its desktop app, so place `PhilologEg-0.5.14.jar` in `data/upstream/` yourself, then run `aegyptus import --source nederhof-philologeg`.
+
+Then:
+
+```bash
+python -m api                                          # API on port 8000
+python scripts/ingest_manual.py data/manual/my_text.json   # manual ingest
 ```
 
 ## Architecture
